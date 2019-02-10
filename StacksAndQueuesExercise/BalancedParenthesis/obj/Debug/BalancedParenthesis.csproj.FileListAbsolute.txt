@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BalancedParenthesis\bin\Debug\BalancedParenthesis.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BalancedParenthesis\bin\Debug\BalancedParenthesis.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BalancedParenthesis\bin\Debug\BalancedParenthesis.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BalancedParenthesis\obj\Debug\BalancedParenthesis.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BalancedParenthesis\obj\Debug\BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BalancedParenthesis\obj\Debug\BalancedParenthesis.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BalancedParenthesis\obj\Debug\BalancedParenthesis.pdb

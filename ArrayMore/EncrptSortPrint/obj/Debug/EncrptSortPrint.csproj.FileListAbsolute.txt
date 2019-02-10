@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ArrayMore\EncrptSortPrint\bin\Debug\EncrptSortPrint.exe.config
+C:\Users\Acer\source\repos\ArrayMore\EncrptSortPrint\bin\Debug\EncrptSortPrint.exe
+C:\Users\Acer\source\repos\ArrayMore\EncrptSortPrint\bin\Debug\EncrptSortPrint.pdb
+C:\Users\Acer\source\repos\ArrayMore\EncrptSortPrint\obj\Debug\EncrptSortPrint.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ArrayMore\EncrptSortPrint\obj\Debug\EncrptSortPrint.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ArrayMore\EncrptSortPrint\obj\Debug\EncrptSortPrint.exe
+C:\Users\Acer\source\repos\ArrayMore\EncrptSortPrint\obj\Debug\EncrptSortPrint.pdb

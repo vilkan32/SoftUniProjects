@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\Methods40\PalindromeIntegers\bin\Debug\PalindromeIntegers.exe.config
+C:\Users\Acer\source\repos\Methods40\PalindromeIntegers\bin\Debug\PalindromeIntegers.exe
+C:\Users\Acer\source\repos\Methods40\PalindromeIntegers\bin\Debug\PalindromeIntegers.pdb
+C:\Users\Acer\source\repos\Methods40\PalindromeIntegers\obj\Debug\PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Methods40\PalindromeIntegers\obj\Debug\PalindromeIntegers.exe
+C:\Users\Acer\source\repos\Methods40\PalindromeIntegers\obj\Debug\PalindromeIntegers.pdb

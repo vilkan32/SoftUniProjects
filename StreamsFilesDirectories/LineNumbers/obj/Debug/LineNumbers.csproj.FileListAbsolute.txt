@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LineNumbers\bin\Debug\LineNumbers.exe.config
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LineNumbers\bin\Debug\LineNumbers.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LineNumbers\bin\Debug\LineNumbers.pdb
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LineNumbers\obj\Debug\LineNumbers.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LineNumbers\obj\Debug\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LineNumbers\obj\Debug\LineNumbers.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LineNumbers\obj\Debug\LineNumbers.pdb

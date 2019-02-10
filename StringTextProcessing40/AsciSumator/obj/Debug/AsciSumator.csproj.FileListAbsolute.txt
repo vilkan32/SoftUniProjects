@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\StringTextProcessing40\AsciSumator\bin\Debug\AsciSumator.exe.config
+C:\Users\Acer\source\repos\StringTextProcessing40\AsciSumator\bin\Debug\AsciSumator.exe
+C:\Users\Acer\source\repos\StringTextProcessing40\AsciSumator\bin\Debug\AsciSumator.pdb
+C:\Users\Acer\source\repos\StringTextProcessing40\AsciSumator\obj\Debug\AsciSumator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StringTextProcessing40\AsciSumator\obj\Debug\AsciSumator.exe
+C:\Users\Acer\source\repos\StringTextProcessing40\AsciSumator\obj\Debug\AsciSumator.pdb

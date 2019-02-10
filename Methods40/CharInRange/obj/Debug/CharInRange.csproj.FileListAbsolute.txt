@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Methods40\CharInRange\bin\Debug\CharInRange.exe.config
+C:\Users\Acer\source\repos\Methods40\CharInRange\bin\Debug\CharInRange.exe
+C:\Users\Acer\source\repos\Methods40\CharInRange\bin\Debug\CharInRange.pdb
+C:\Users\Acer\source\repos\Methods40\CharInRange\obj\Debug\CharInRange.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Methods40\CharInRange\obj\Debug\CharInRange.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Methods40\CharInRange\obj\Debug\CharInRange.exe
+C:\Users\Acer\source\repos\Methods40\CharInRange\obj\Debug\CharInRange.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\TruckTour\bin\Debug\TruckTour.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\TruckTour\bin\Debug\TruckTour.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\TruckTour\bin\Debug\TruckTour.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\TruckTour\obj\Debug\TruckTour.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\TruckTour\obj\Debug\TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\TruckTour\obj\Debug\TruckTour.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\TruckTour\obj\Debug\TruckTour.pdb

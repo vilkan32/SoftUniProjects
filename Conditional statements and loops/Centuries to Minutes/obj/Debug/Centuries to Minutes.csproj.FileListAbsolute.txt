@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Conditional statements and loops\Centuries to Minutes\bin\Debug\Centuries to Minutes.exe.config
+C:\Users\Acer\source\repos\Conditional statements and loops\Centuries to Minutes\bin\Debug\Centuries to Minutes.exe
+C:\Users\Acer\source\repos\Conditional statements and loops\Centuries to Minutes\bin\Debug\Centuries to Minutes.pdb
+C:\Users\Acer\source\repos\Conditional statements and loops\Centuries to Minutes\obj\Debug\Centuries to Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Acer\source\repos\Conditional statements and loops\Centuries to Minutes\obj\Debug\Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Conditional statements and loops\Centuries to Minutes\obj\Debug\Centuries to Minutes.exe
+C:\Users\Acer\source\repos\Conditional statements and loops\Centuries to Minutes\obj\Debug\Centuries to Minutes.pdb

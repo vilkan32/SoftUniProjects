@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MethodsExercises\MethodsExercises\bin\Debug\MethodsExercises.exe.config
+C:\Users\Acer\source\repos\MethodsExercises\MethodsExercises\bin\Debug\MethodsExercises.exe
+C:\Users\Acer\source\repos\MethodsExercises\MethodsExercises\bin\Debug\MethodsExercises.pdb
+C:\Users\Acer\source\repos\MethodsExercises\MethodsExercises\obj\Debug\MethodsExercises.csprojResolveAssemblyReference.cache
+C:\Users\Acer\source\repos\MethodsExercises\MethodsExercises\obj\Debug\MethodsExercises.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MethodsExercises\MethodsExercises\obj\Debug\MethodsExercises.exe
+C:\Users\Acer\source\repos\MethodsExercises\MethodsExercises\obj\Debug\MethodsExercises.pdb

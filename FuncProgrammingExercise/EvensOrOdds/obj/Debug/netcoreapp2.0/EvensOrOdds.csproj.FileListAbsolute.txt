@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\FuncProgrammingExercise\EvensOrOdds\bin\Debug\netcoreapp2.0\EvensOrOdds.deps.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\EvensOrOdds\bin\Debug\netcoreapp2.0\EvensOrOdds.runtimeconfig.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\EvensOrOdds\bin\Debug\netcoreapp2.0\EvensOrOdds.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\EvensOrOdds\bin\Debug\netcoreapp2.0\EvensOrOdds.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\EvensOrOdds\bin\Debug\netcoreapp2.0\EvensOrOdds.pdb
+C:\Users\Acer\source\repos\FuncProgrammingExercise\EvensOrOdds\obj\Debug\netcoreapp2.0\EvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\EvensOrOdds\obj\Debug\netcoreapp2.0\EvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\EvensOrOdds\obj\Debug\netcoreapp2.0\EvensOrOdds.AssemblyInfo.cs
+C:\Users\Acer\source\repos\FuncProgrammingExercise\EvensOrOdds\obj\Debug\netcoreapp2.0\EvensOrOdds.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\EvensOrOdds\obj\Debug\netcoreapp2.0\EvensOrOdds.pdb

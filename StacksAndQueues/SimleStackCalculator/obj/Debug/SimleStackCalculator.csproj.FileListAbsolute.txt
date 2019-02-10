@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\StacksAndQueues\SimleStackCalculator\bin\Debug\SimleStackCalculator.exe.config
+C:\Users\Acer\source\repos\StacksAndQueues\SimleStackCalculator\bin\Debug\SimleStackCalculator.exe
+C:\Users\Acer\source\repos\StacksAndQueues\SimleStackCalculator\bin\Debug\SimleStackCalculator.pdb
+C:\Users\Acer\source\repos\StacksAndQueues\SimleStackCalculator\obj\Debug\SimleStackCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueues\SimleStackCalculator\obj\Debug\SimleStackCalculator.exe
+C:\Users\Acer\source\repos\StacksAndQueues\SimleStackCalculator\obj\Debug\SimleStackCalculator.pdb

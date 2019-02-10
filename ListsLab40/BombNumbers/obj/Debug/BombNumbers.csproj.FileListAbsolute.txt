@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ListsLab40\BombNumbers\bin\Debug\BombNumbers.exe.config
+C:\Users\Acer\source\repos\ListsLab40\BombNumbers\bin\Debug\BombNumbers.exe
+C:\Users\Acer\source\repos\ListsLab40\BombNumbers\bin\Debug\BombNumbers.pdb
+C:\Users\Acer\source\repos\ListsLab40\BombNumbers\obj\Debug\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ListsLab40\BombNumbers\obj\Debug\BombNumbers.exe
+C:\Users\Acer\source\repos\ListsLab40\BombNumbers\obj\Debug\BombNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\DIctionary40\ExamResults\bin\Debug\ExamResults.exe.config
+C:\Users\Acer\source\repos\DIctionary40\ExamResults\bin\Debug\ExamResults.exe
+C:\Users\Acer\source\repos\DIctionary40\ExamResults\bin\Debug\ExamResults.pdb
+C:\Users\Acer\source\repos\DIctionary40\ExamResults\obj\Debug\ExamResults.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\DIctionary40\ExamResults\obj\Debug\ExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\ExamResults\obj\Debug\ExamResults.exe
+C:\Users\Acer\source\repos\DIctionary40\ExamResults\obj\Debug\ExamResults.pdb

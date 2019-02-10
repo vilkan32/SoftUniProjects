@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ArraysLab\EqualArrays\bin\Debug\EqualArrays.exe.config
+C:\Users\Acer\source\repos\ArraysLab\EqualArrays\bin\Debug\EqualArrays.exe
+C:\Users\Acer\source\repos\ArraysLab\EqualArrays\bin\Debug\EqualArrays.pdb
+C:\Users\Acer\source\repos\ArraysLab\EqualArrays\obj\Debug\EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ArraysLab\EqualArrays\obj\Debug\EqualArrays.exe
+C:\Users\Acer\source\repos\ArraysLab\EqualArrays\obj\Debug\EqualArrays.pdb
+C:\Users\Acer\source\repos\ArraysLab\EqualArrays\obj\Debug\EqualArrays.csprojAssemblyReference.cache

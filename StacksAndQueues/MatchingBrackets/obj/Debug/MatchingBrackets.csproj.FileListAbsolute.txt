@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueues\MatchingBrackets\bin\Debug\MatchingBrackets.exe.config
+C:\Users\Acer\source\repos\StacksAndQueues\MatchingBrackets\bin\Debug\MatchingBrackets.exe
+C:\Users\Acer\source\repos\StacksAndQueues\MatchingBrackets\bin\Debug\MatchingBrackets.pdb
+C:\Users\Acer\source\repos\StacksAndQueues\MatchingBrackets\obj\Debug\MatchingBrackets.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueues\MatchingBrackets\obj\Debug\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueues\MatchingBrackets\obj\Debug\MatchingBrackets.exe
+C:\Users\Acer\source\repos\StacksAndQueues\MatchingBrackets\obj\Debug\MatchingBrackets.pdb

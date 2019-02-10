@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\KeyRevolver\bin\Debug\KeyRevolver.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\KeyRevolver\bin\Debug\KeyRevolver.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\KeyRevolver\bin\Debug\KeyRevolver.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\KeyRevolver\obj\Debug\KeyRevolver.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\KeyRevolver\obj\Debug\KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\KeyRevolver\obj\Debug\KeyRevolver.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\KeyRevolver\obj\Debug\KeyRevolver.pdb

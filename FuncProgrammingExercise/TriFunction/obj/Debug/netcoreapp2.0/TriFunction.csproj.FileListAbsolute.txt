@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\FuncProgrammingExercise\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.deps.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.runtimeconfig.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.pdb
+C:\Users\Acer\source\repos\FuncProgrammingExercise\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.AssemblyInfo.cs
+C:\Users\Acer\source\repos\FuncProgrammingExercise\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.pdb

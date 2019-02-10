@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueues\HotPotatoe\bin\Debug\HotPotatoe.exe.config
+C:\Users\Acer\source\repos\StacksAndQueues\HotPotatoe\bin\Debug\HotPotatoe.exe
+C:\Users\Acer\source\repos\StacksAndQueues\HotPotatoe\bin\Debug\HotPotatoe.pdb
+C:\Users\Acer\source\repos\StacksAndQueues\HotPotatoe\obj\Debug\HotPotatoe.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueues\HotPotatoe\obj\Debug\HotPotatoe.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueues\HotPotatoe\obj\Debug\HotPotatoe.exe
+C:\Users\Acer\source\repos\StacksAndQueues\HotPotatoe\obj\Debug\HotPotatoe.pdb

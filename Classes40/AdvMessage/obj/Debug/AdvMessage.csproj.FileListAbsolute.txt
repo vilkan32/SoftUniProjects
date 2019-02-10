@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Classes40\AdvMessage\bin\Debug\AdvMessage.exe.config
+C:\Users\Acer\source\repos\Classes40\AdvMessage\bin\Debug\AdvMessage.exe
+C:\Users\Acer\source\repos\Classes40\AdvMessage\bin\Debug\AdvMessage.pdb
+C:\Users\Acer\source\repos\Classes40\AdvMessage\obj\Debug\AdvMessage.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Classes40\AdvMessage\obj\Debug\AdvMessage.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Classes40\AdvMessage\obj\Debug\AdvMessage.exe
+C:\Users\Acer\source\repos\Classes40\AdvMessage\obj\Debug\AdvMessage.pdb

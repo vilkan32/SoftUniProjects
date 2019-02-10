@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegexMore\KarateString\bin\Debug\KarateString.exe.config
+C:\Users\Acer\source\repos\RegexMore\KarateString\bin\Debug\KarateString.exe
+C:\Users\Acer\source\repos\RegexMore\KarateString\bin\Debug\KarateString.pdb
+C:\Users\Acer\source\repos\RegexMore\KarateString\obj\Debug\KarateString.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegexMore\KarateString\obj\Debug\KarateString.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegexMore\KarateString\obj\Debug\KarateString.exe
+C:\Users\Acer\source\repos\RegexMore\KarateString\obj\Debug\KarateString.pdb

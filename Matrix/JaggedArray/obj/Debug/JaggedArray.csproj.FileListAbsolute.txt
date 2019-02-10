@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\Matrix\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\Users\Acer\source\repos\Matrix\JaggedArray\bin\Debug\JaggedArray.exe
+C:\Users\Acer\source\repos\Matrix\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\Users\Acer\source\repos\Matrix\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Matrix\JaggedArray\obj\Debug\JaggedArray.exe
+C:\Users\Acer\source\repos\Matrix\JaggedArray\obj\Debug\JaggedArray.pdb

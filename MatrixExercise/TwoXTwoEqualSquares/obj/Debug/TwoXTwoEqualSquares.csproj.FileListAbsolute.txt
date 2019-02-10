@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MatrixExercise\TwoXTwoEqualSquares\bin\Debug\TwoXTwoEqualSquares.exe.config
+C:\Users\Acer\source\repos\MatrixExercise\TwoXTwoEqualSquares\bin\Debug\TwoXTwoEqualSquares.exe
+C:\Users\Acer\source\repos\MatrixExercise\TwoXTwoEqualSquares\bin\Debug\TwoXTwoEqualSquares.pdb
+C:\Users\Acer\source\repos\MatrixExercise\TwoXTwoEqualSquares\obj\Debug\TwoXTwoEqualSquares.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MatrixExercise\TwoXTwoEqualSquares\obj\Debug\TwoXTwoEqualSquares.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MatrixExercise\TwoXTwoEqualSquares\obj\Debug\TwoXTwoEqualSquares.exe
+C:\Users\Acer\source\repos\MatrixExercise\TwoXTwoEqualSquares\obj\Debug\TwoXTwoEqualSquares.pdb

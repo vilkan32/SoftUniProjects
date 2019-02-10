@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\FinalExamTechModule\FirstTaskCore\bin\Debug\netcoreapp2.0\FirstTaskCore.deps.json
+C:\Users\Acer\source\repos\FinalExamTechModule\FirstTaskCore\bin\Debug\netcoreapp2.0\FirstTaskCore.runtimeconfig.json
+C:\Users\Acer\source\repos\FinalExamTechModule\FirstTaskCore\bin\Debug\netcoreapp2.0\FirstTaskCore.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\FinalExamTechModule\FirstTaskCore\bin\Debug\netcoreapp2.0\FirstTaskCore.dll
+C:\Users\Acer\source\repos\FinalExamTechModule\FirstTaskCore\bin\Debug\netcoreapp2.0\FirstTaskCore.pdb
+C:\Users\Acer\source\repos\FinalExamTechModule\FirstTaskCore\obj\Debug\netcoreapp2.0\FirstTaskCore.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\FinalExamTechModule\FirstTaskCore\obj\Debug\netcoreapp2.0\FirstTaskCore.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FinalExamTechModule\FirstTaskCore\obj\Debug\netcoreapp2.0\FirstTaskCore.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\FinalExamTechModule\FirstTaskCore\obj\Debug\netcoreapp2.0\FirstTaskCore.AssemblyInfo.cs
+C:\Users\Acer\source\repos\FinalExamTechModule\FirstTaskCore\obj\Debug\netcoreapp2.0\FirstTaskCore.dll
+C:\Users\Acer\source\repos\FinalExamTechModule\FirstTaskCore\obj\Debug\netcoreapp2.0\FirstTaskCore.pdb

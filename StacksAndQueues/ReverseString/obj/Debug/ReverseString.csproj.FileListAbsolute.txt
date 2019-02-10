@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueues\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\Acer\source\repos\StacksAndQueues\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\Acer\source\repos\StacksAndQueues\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\Acer\source\repos\StacksAndQueues\ReverseString\obj\Debug\ReverseString.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueues\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueues\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\Acer\source\repos\StacksAndQueues\ReverseString\obj\Debug\ReverseString.pdb

@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ArraysLab\SumEvenNumbers\obj\Debug\SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ArraysLab\SumEvenNumbers\bin\Debug\SumEvenNumbers.exe.config
+C:\Users\Acer\source\repos\ArraysLab\SumEvenNumbers\bin\Debug\SumEvenNumbers.exe
+C:\Users\Acer\source\repos\ArraysLab\SumEvenNumbers\bin\Debug\SumEvenNumbers.pdb
+C:\Users\Acer\source\repos\ArraysLab\SumEvenNumbers\obj\Debug\SumEvenNumbers.exe
+C:\Users\Acer\source\repos\ArraysLab\SumEvenNumbers\obj\Debug\SumEvenNumbers.pdb

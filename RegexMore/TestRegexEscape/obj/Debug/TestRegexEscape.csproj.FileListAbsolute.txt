@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegexMore\TestRegexEscape\bin\Debug\TestRegexEscape.exe.config
+C:\Users\Acer\source\repos\RegexMore\TestRegexEscape\bin\Debug\TestRegexEscape.exe
+C:\Users\Acer\source\repos\RegexMore\TestRegexEscape\bin\Debug\TestRegexEscape.pdb
+C:\Users\Acer\source\repos\RegexMore\TestRegexEscape\obj\Debug\TestRegexEscape.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegexMore\TestRegexEscape\obj\Debug\TestRegexEscape.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegexMore\TestRegexEscape\obj\Debug\TestRegexEscape.exe
+C:\Users\Acer\source\repos\RegexMore\TestRegexEscape\obj\Debug\TestRegexEscape.pdb

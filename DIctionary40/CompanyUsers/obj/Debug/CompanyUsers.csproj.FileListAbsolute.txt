@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\DIctionary40\CompanyUsers\bin\Debug\CompanyUsers.exe.config
+C:\Users\Acer\source\repos\DIctionary40\CompanyUsers\bin\Debug\CompanyUsers.exe
+C:\Users\Acer\source\repos\DIctionary40\CompanyUsers\bin\Debug\CompanyUsers.pdb
+C:\Users\Acer\source\repos\DIctionary40\CompanyUsers\obj\Debug\CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\CompanyUsers\obj\Debug\CompanyUsers.exe
+C:\Users\Acer\source\repos\DIctionary40\CompanyUsers\obj\Debug\CompanyUsers.pdb

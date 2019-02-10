@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\FashionBoutiq\bin\Debug\FashionBoutiq.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\FashionBoutiq\bin\Debug\FashionBoutiq.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\FashionBoutiq\bin\Debug\FashionBoutiq.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\FashionBoutiq\obj\Debug\FashionBoutiq.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\FashionBoutiq\obj\Debug\FashionBoutiq.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\FashionBoutiq\obj\Debug\FashionBoutiq.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\FashionBoutiq\obj\Debug\FashionBoutiq.csprojAssemblyReference.cache

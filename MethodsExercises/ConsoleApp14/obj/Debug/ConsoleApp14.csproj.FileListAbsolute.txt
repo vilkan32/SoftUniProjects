@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\MethodsExercises\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+C:\Users\Acer\source\repos\MethodsExercises\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+C:\Users\Acer\source\repos\MethodsExercises\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+C:\Users\Acer\source\repos\MethodsExercises\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MethodsExercises\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+C:\Users\Acer\source\repos\MethodsExercises\ConsoleApp14\obj\Debug\ConsoleApp14.pdb

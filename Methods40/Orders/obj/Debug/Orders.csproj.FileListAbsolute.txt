@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\Methods40\Orders\bin\Debug\Orders.exe.config
+C:\Users\Acer\source\repos\Methods40\Orders\bin\Debug\Orders.exe
+C:\Users\Acer\source\repos\Methods40\Orders\bin\Debug\Orders.pdb
+C:\Users\Acer\source\repos\Methods40\Orders\obj\Debug\Orders.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Methods40\Orders\obj\Debug\Orders.exe
+C:\Users\Acer\source\repos\Methods40\Orders\obj\Debug\Orders.pdb

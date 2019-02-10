@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.deps.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.runtimeconfig.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicateForNames\bin\Debug\netcoreapp2.0\PredicateForNames.pdb
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.AssemblyInfo.cs
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicateForNames\obj\Debug\netcoreapp2.0\PredicateForNames.pdb

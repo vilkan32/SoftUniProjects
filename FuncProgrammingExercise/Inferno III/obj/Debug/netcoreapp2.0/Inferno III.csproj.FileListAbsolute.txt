@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\FuncProgrammingExercise\Inferno III\bin\Debug\netcoreapp2.0\Inferno III.deps.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\Inferno III\bin\Debug\netcoreapp2.0\Inferno III.runtimeconfig.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\Inferno III\bin\Debug\netcoreapp2.0\Inferno III.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\Inferno III\bin\Debug\netcoreapp2.0\Inferno III.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\Inferno III\bin\Debug\netcoreapp2.0\Inferno III.pdb
+C:\Users\Acer\source\repos\FuncProgrammingExercise\Inferno III\obj\Debug\netcoreapp2.0\Inferno III.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\Inferno III\obj\Debug\netcoreapp2.0\Inferno III.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\Inferno III\obj\Debug\netcoreapp2.0\Inferno III.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\Inferno III\obj\Debug\netcoreapp2.0\Inferno III.AssemblyInfo.cs
+C:\Users\Acer\source\repos\FuncProgrammingExercise\Inferno III\obj\Debug\netcoreapp2.0\Inferno III.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\Inferno III\obj\Debug\netcoreapp2.0\Inferno III.pdb

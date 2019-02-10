@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ListsLab40\TakeSkipRope\bin\Debug\TakeSkipRope.exe.config
+C:\Users\Acer\source\repos\ListsLab40\TakeSkipRope\bin\Debug\TakeSkipRope.exe
+C:\Users\Acer\source\repos\ListsLab40\TakeSkipRope\bin\Debug\TakeSkipRope.pdb
+C:\Users\Acer\source\repos\ListsLab40\TakeSkipRope\obj\Debug\TakeSkipRope.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ListsLab40\TakeSkipRope\obj\Debug\TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ListsLab40\TakeSkipRope\obj\Debug\TakeSkipRope.exe
+C:\Users\Acer\source\repos\ListsLab40\TakeSkipRope\obj\Debug\TakeSkipRope.pdb

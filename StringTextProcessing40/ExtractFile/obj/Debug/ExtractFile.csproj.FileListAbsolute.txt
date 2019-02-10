@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractFile\bin\Debug\ExtractFile.exe.config
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractFile\bin\Debug\ExtractFile.exe
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractFile\bin\Debug\ExtractFile.pdb
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractFile\obj\Debug\ExtractFile.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractFile\obj\Debug\ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractFile\obj\Debug\ExtractFile.exe
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractFile\obj\Debug\ExtractFile.pdb

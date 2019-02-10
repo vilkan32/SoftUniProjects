@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\EvenNumber\bin\Debug\EvenNumber.exe.config
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\EvenNumber\bin\Debug\EvenNumber.exe
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\EvenNumber\bin\Debug\EvenNumber.pdb
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\EvenNumber\obj\Debug\EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\EvenNumber\obj\Debug\EvenNumber.exe
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\EvenNumber\obj\Debug\EvenNumber.pdb

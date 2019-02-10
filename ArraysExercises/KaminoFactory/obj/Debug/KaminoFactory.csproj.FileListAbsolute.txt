@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ArraysExercises\KaminoFactory\bin\Debug\KaminoFactory.exe.config
+C:\Users\Acer\source\repos\ArraysExercises\KaminoFactory\bin\Debug\KaminoFactory.exe
+C:\Users\Acer\source\repos\ArraysExercises\KaminoFactory\bin\Debug\KaminoFactory.pdb
+C:\Users\Acer\source\repos\ArraysExercises\KaminoFactory\obj\Debug\KaminoFactory.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ArraysExercises\KaminoFactory\obj\Debug\KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ArraysExercises\KaminoFactory\obj\Debug\KaminoFactory.exe
+C:\Users\Acer\source\repos\ArraysExercises\KaminoFactory\obj\Debug\KaminoFactory.pdb

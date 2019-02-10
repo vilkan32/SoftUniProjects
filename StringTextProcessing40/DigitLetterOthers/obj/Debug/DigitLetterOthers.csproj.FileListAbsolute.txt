@@ -1,0 +1,6 @@
+c:\users\acer\source\repos\StringTextProcessing40\DigitLetterOthers\bin\Debug\DigitLetterOthers.exe.config
+c:\users\acer\source\repos\StringTextProcessing40\DigitLetterOthers\bin\Debug\DigitLetterOthers.exe
+c:\users\acer\source\repos\StringTextProcessing40\DigitLetterOthers\bin\Debug\DigitLetterOthers.pdb
+c:\users\acer\source\repos\StringTextProcessing40\DigitLetterOthers\obj\Debug\DigitLetterOthers.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\StringTextProcessing40\DigitLetterOthers\obj\Debug\DigitLetterOthers.exe
+c:\users\acer\source\repos\StringTextProcessing40\DigitLetterOthers\obj\Debug\DigitLetterOthers.pdb

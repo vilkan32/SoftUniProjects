@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Classes40\CompanyRoster\bin\Debug\CompanyRoster.exe.config
+C:\Users\Acer\source\repos\Classes40\CompanyRoster\bin\Debug\CompanyRoster.exe
+C:\Users\Acer\source\repos\Classes40\CompanyRoster\bin\Debug\CompanyRoster.pdb
+C:\Users\Acer\source\repos\Classes40\CompanyRoster\obj\Debug\CompanyRoster.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Classes40\CompanyRoster\obj\Debug\CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Classes40\CompanyRoster\obj\Debug\CompanyRoster.exe
+C:\Users\Acer\source\repos\Classes40\CompanyRoster\obj\Debug\CompanyRoster.pdb

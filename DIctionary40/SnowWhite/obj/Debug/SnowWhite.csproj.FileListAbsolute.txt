@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\DIctionary40\SnowWhite\bin\Debug\SnowWhite.exe.config
+C:\Users\Acer\source\repos\DIctionary40\SnowWhite\bin\Debug\SnowWhite.exe
+C:\Users\Acer\source\repos\DIctionary40\SnowWhite\bin\Debug\SnowWhite.pdb
+C:\Users\Acer\source\repos\DIctionary40\SnowWhite\obj\Debug\SnowWhite.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\DIctionary40\SnowWhite\obj\Debug\SnowWhite.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\SnowWhite\obj\Debug\SnowWhite.exe
+C:\Users\Acer\source\repos\DIctionary40\SnowWhite\obj\Debug\SnowWhite.pdb

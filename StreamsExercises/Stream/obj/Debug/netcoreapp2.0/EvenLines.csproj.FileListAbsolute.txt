@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\StreamsExercises\Stream\bin\Debug\netcoreapp2.0\EvenLines.deps.json
+C:\Users\Acer\source\repos\StreamsExercises\Stream\bin\Debug\netcoreapp2.0\EvenLines.runtimeconfig.json
+C:\Users\Acer\source\repos\StreamsExercises\Stream\bin\Debug\netcoreapp2.0\EvenLines.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\StreamsExercises\Stream\bin\Debug\netcoreapp2.0\EvenLines.dll
+C:\Users\Acer\source\repos\StreamsExercises\Stream\bin\Debug\netcoreapp2.0\EvenLines.pdb
+C:\Users\Acer\source\repos\StreamsExercises\Stream\obj\Debug\netcoreapp2.0\EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StreamsExercises\Stream\obj\Debug\netcoreapp2.0\EvenLines.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\StreamsExercises\Stream\obj\Debug\netcoreapp2.0\EvenLines.AssemblyInfo.cs
+C:\Users\Acer\source\repos\StreamsExercises\Stream\obj\Debug\netcoreapp2.0\EvenLines.dll
+C:\Users\Acer\source\repos\StreamsExercises\Stream\obj\Debug\netcoreapp2.0\EvenLines.pdb

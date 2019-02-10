@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegEX\Race\obj\Debug\Race.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegEX\Race\obj\Debug\Race.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegEX\Race\bin\Debug\Race.exe.config
+C:\Users\Acer\source\repos\RegEX\Race\bin\Debug\Race.exe
+C:\Users\Acer\source\repos\RegEX\Race\bin\Debug\Race.pdb
+C:\Users\Acer\source\repos\RegEX\Race\obj\Debug\Race.exe
+C:\Users\Acer\source\repos\RegEX\Race\obj\Debug\Race.pdb

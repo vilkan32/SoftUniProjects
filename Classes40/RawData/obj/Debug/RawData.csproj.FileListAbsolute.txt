@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Classes40\RawData\bin\Debug\RawData.exe.config
+C:\Users\Acer\source\repos\Classes40\RawData\bin\Debug\RawData.exe
+C:\Users\Acer\source\repos\Classes40\RawData\bin\Debug\RawData.pdb
+C:\Users\Acer\source\repos\Classes40\RawData\obj\Debug\RawData.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Classes40\RawData\obj\Debug\RawData.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Classes40\RawData\obj\Debug\RawData.exe
+C:\Users\Acer\source\repos\Classes40\RawData\obj\Debug\RawData.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Methods40\TribonaciSequence\bin\Debug\TribonaciSequence.exe.config
+C:\Users\Acer\source\repos\Methods40\TribonaciSequence\bin\Debug\TribonaciSequence.exe
+C:\Users\Acer\source\repos\Methods40\TribonaciSequence\bin\Debug\TribonaciSequence.pdb
+C:\Users\Acer\source\repos\Methods40\TribonaciSequence\obj\Debug\TribonaciSequence.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Methods40\TribonaciSequence\obj\Debug\TribonaciSequence.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Methods40\TribonaciSequence\obj\Debug\TribonaciSequence.exe
+C:\Users\Acer\source\repos\Methods40\TribonaciSequence\obj\Debug\TribonaciSequence.pdb

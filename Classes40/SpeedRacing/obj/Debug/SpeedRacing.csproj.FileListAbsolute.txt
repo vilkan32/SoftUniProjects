@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Classes40\SpeedRacing\bin\Debug\SpeedRacing.exe.config
+C:\Users\Acer\source\repos\Classes40\SpeedRacing\bin\Debug\SpeedRacing.exe
+C:\Users\Acer\source\repos\Classes40\SpeedRacing\bin\Debug\SpeedRacing.pdb
+C:\Users\Acer\source\repos\Classes40\SpeedRacing\obj\Debug\SpeedRacing.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Classes40\SpeedRacing\obj\Debug\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Classes40\SpeedRacing\obj\Debug\SpeedRacing.exe
+C:\Users\Acer\source\repos\Classes40\SpeedRacing\obj\Debug\SpeedRacing.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\SuperMarket\obj\Debug\SuperMarket.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\SuperMarket\obj\Debug\SuperMarket.pdb

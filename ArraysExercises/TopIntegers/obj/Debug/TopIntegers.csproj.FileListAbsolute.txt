@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ArraysExercises\TopIntegers\bin\Debug\TopIntegers.exe.config
+C:\Users\Acer\source\repos\ArraysExercises\TopIntegers\bin\Debug\TopIntegers.exe
+C:\Users\Acer\source\repos\ArraysExercises\TopIntegers\bin\Debug\TopIntegers.pdb
+C:\Users\Acer\source\repos\ArraysExercises\TopIntegers\obj\Debug\TopIntegers.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ArraysExercises\TopIntegers\obj\Debug\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ArraysExercises\TopIntegers\obj\Debug\TopIntegers.exe
+C:\Users\Acer\source\repos\ArraysExercises\TopIntegers\obj\Debug\TopIntegers.pdb

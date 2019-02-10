@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Methods40\TopNumbers\bin\Debug\TopNumbers.exe.config
+C:\Users\Acer\source\repos\Methods40\TopNumbers\bin\Debug\TopNumbers.exe
+C:\Users\Acer\source\repos\Methods40\TopNumbers\bin\Debug\TopNumbers.pdb
+C:\Users\Acer\source\repos\Methods40\TopNumbers\obj\Debug\TopNumbers.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Methods40\TopNumbers\obj\Debug\TopNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Methods40\TopNumbers\obj\Debug\TopNumbers.exe
+C:\Users\Acer\source\repos\Methods40\TopNumbers\obj\Debug\TopNumbers.pdb

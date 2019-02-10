@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ArrayMore\Fibonnaci\bin\Debug\Fibonnaci.exe.config
+C:\Users\Acer\source\repos\ArrayMore\Fibonnaci\bin\Debug\Fibonnaci.exe
+C:\Users\Acer\source\repos\ArrayMore\Fibonnaci\bin\Debug\Fibonnaci.pdb
+C:\Users\Acer\source\repos\ArrayMore\Fibonnaci\obj\Debug\Fibonnaci.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ArrayMore\Fibonnaci\obj\Debug\Fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ArrayMore\Fibonnaci\obj\Debug\Fibonnaci.exe
+C:\Users\Acer\source\repos\ArrayMore\Fibonnaci\obj\Debug\Fibonnaci.pdb

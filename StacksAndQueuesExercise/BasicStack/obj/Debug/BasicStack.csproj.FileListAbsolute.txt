@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BasicStack\bin\Debug\BasicStack.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BasicStack\bin\Debug\BasicStack.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BasicStack\bin\Debug\BasicStack.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BasicStack\obj\Debug\BasicStack.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BasicStack\obj\Debug\BasicStack.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BasicStack\obj\Debug\BasicStack.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\BasicStack\obj\Debug\BasicStack.pdb

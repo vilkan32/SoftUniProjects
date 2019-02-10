@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\DIctionary40\Judge\bin\Debug\Judge.exe.config
+C:\Users\Acer\source\repos\DIctionary40\Judge\bin\Debug\Judge.exe
+C:\Users\Acer\source\repos\DIctionary40\Judge\bin\Debug\Judge.pdb
+C:\Users\Acer\source\repos\DIctionary40\Judge\obj\Debug\Judge.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\DIctionary40\Judge\obj\Debug\Judge.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\Judge\obj\Debug\Judge.exe
+C:\Users\Acer\source\repos\DIctionary40\Judge\obj\Debug\Judge.pdb

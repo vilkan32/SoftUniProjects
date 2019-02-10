@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\BakingMasterClass\BakingFactory\bin\Debug\BakingFactory.exe.config
+C:\Users\Acer\source\repos\BakingMasterClass\BakingFactory\bin\Debug\BakingFactory.exe
+C:\Users\Acer\source\repos\BakingMasterClass\BakingFactory\bin\Debug\BakingFactory.pdb
+C:\Users\Acer\source\repos\BakingMasterClass\BakingFactory\obj\Debug\BakingFactory.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\BakingMasterClass\BakingFactory\obj\Debug\BakingFactory.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\BakingMasterClass\BakingFactory\obj\Debug\BakingFactory.exe
+C:\Users\Acer\source\repos\BakingMasterClass\BakingFactory\obj\Debug\BakingFactory.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StreamsFilesDirectories\SliceFile\bin\Debug\SliceFile.exe.config
+C:\Users\Acer\source\repos\StreamsFilesDirectories\SliceFile\bin\Debug\SliceFile.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\SliceFile\bin\Debug\SliceFile.pdb
+C:\Users\Acer\source\repos\StreamsFilesDirectories\SliceFile\obj\Debug\SliceFile.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StreamsFilesDirectories\SliceFile\obj\Debug\SliceFile.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StreamsFilesDirectories\SliceFile\obj\Debug\SliceFile.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\SliceFile\obj\Debug\SliceFile.pdb

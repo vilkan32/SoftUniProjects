@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\StacksAndQueues\PersonalTry\bin\Debug\PersonalTry.exe.config
+C:\Users\Acer\source\repos\StacksAndQueues\PersonalTry\bin\Debug\PersonalTry.exe
+C:\Users\Acer\source\repos\StacksAndQueues\PersonalTry\bin\Debug\PersonalTry.pdb
+C:\Users\Acer\source\repos\StacksAndQueues\PersonalTry\obj\Debug\PersonalTry.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueues\PersonalTry\obj\Debug\PersonalTry.exe
+C:\Users\Acer\source\repos\StacksAndQueues\PersonalTry\obj\Debug\PersonalTry.pdb

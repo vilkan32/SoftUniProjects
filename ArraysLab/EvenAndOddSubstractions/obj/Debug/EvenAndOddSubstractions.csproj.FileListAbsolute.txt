@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ArraysLab\EvenAndOddSubstractions\bin\Debug\EvenAndOddSubstractions.exe.config
+C:\Users\Acer\source\repos\ArraysLab\EvenAndOddSubstractions\bin\Debug\EvenAndOddSubstractions.exe
+C:\Users\Acer\source\repos\ArraysLab\EvenAndOddSubstractions\bin\Debug\EvenAndOddSubstractions.pdb
+C:\Users\Acer\source\repos\ArraysLab\EvenAndOddSubstractions\obj\Debug\EvenAndOddSubstractions.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ArraysLab\EvenAndOddSubstractions\obj\Debug\EvenAndOddSubstractions.exe
+C:\Users\Acer\source\repos\ArraysLab\EvenAndOddSubstractions\obj\Debug\EvenAndOddSubstractions.pdb

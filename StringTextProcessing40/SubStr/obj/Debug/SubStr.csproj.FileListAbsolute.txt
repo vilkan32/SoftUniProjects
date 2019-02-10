@@ -1,0 +1,6 @@
+c:\users\acer\source\repos\StringTextProcessing40\SubStr\bin\Debug\SubStr.exe.config
+c:\users\acer\source\repos\StringTextProcessing40\SubStr\bin\Debug\SubStr.exe
+c:\users\acer\source\repos\StringTextProcessing40\SubStr\bin\Debug\SubStr.pdb
+c:\users\acer\source\repos\StringTextProcessing40\SubStr\obj\Debug\SubStr.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\StringTextProcessing40\SubStr\obj\Debug\SubStr.exe
+c:\users\acer\source\repos\StringTextProcessing40\SubStr\obj\Debug\SubStr.pdb

@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\MidExam\TaskTHree123\bin\Debug\netcoreapp2.0\TaskTHree123.deps.json
+C:\Users\Acer\source\repos\MidExam\TaskTHree123\bin\Debug\netcoreapp2.0\TaskTHree123.runtimeconfig.json
+C:\Users\Acer\source\repos\MidExam\TaskTHree123\bin\Debug\netcoreapp2.0\TaskTHree123.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\MidExam\TaskTHree123\bin\Debug\netcoreapp2.0\TaskTHree123.dll
+C:\Users\Acer\source\repos\MidExam\TaskTHree123\bin\Debug\netcoreapp2.0\TaskTHree123.pdb
+C:\Users\Acer\source\repos\MidExam\TaskTHree123\obj\Debug\netcoreapp2.0\TaskTHree123.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MidExam\TaskTHree123\obj\Debug\netcoreapp2.0\TaskTHree123.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MidExam\TaskTHree123\obj\Debug\netcoreapp2.0\TaskTHree123.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\MidExam\TaskTHree123\obj\Debug\netcoreapp2.0\TaskTHree123.AssemblyInfo.cs
+C:\Users\Acer\source\repos\MidExam\TaskTHree123\obj\Debug\netcoreapp2.0\TaskTHree123.dll
+C:\Users\Acer\source\repos\MidExam\TaskTHree123\obj\Debug\netcoreapp2.0\TaskTHree123.pdb

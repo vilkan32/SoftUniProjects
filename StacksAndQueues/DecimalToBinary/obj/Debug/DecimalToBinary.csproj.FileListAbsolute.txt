@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueues\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\Acer\source\repos\StacksAndQueues\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+C:\Users\Acer\source\repos\StacksAndQueues\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+C:\Users\Acer\source\repos\StacksAndQueues\DecimalToBinary\obj\Debug\DecimalToBinary.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueues\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueues\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\Acer\source\repos\StacksAndQueues\DecimalToBinary\obj\Debug\DecimalToBinary.pdb

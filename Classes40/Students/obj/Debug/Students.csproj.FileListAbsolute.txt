@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Classes40\Students\bin\Debug\Students.exe.config
+C:\Users\Acer\source\repos\Classes40\Students\bin\Debug\Students.exe
+C:\Users\Acer\source\repos\Classes40\Students\bin\Debug\Students.pdb
+C:\Users\Acer\source\repos\Classes40\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Classes40\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Classes40\Students\obj\Debug\Students.exe
+C:\Users\Acer\source\repos\Classes40\Students\obj\Debug\Students.pdb

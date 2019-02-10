@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ArraysLab\DaysOfWeek\bin\Debug\DaysOfWeek.exe.config
+C:\Users\Acer\source\repos\ArraysLab\DaysOfWeek\bin\Debug\DaysOfWeek.exe
+C:\Users\Acer\source\repos\ArraysLab\DaysOfWeek\bin\Debug\DaysOfWeek.pdb
+C:\Users\Acer\source\repos\ArraysLab\DaysOfWeek\obj\Debug\DaysOfWeek.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ArraysLab\DaysOfWeek\obj\Debug\DaysOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ArraysLab\DaysOfWeek\obj\Debug\DaysOfWeek.exe
+C:\Users\Acer\source\repos\ArraysLab\DaysOfWeek\obj\Debug\DaysOfWeek.pdb

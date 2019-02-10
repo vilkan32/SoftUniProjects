@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StreamsFilesDirectories\OddLines\bin\Debug\OddLines.exe.config
+C:\Users\Acer\source\repos\StreamsFilesDirectories\OddLines\bin\Debug\OddLines.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\OddLines\bin\Debug\OddLines.pdb
+C:\Users\Acer\source\repos\StreamsFilesDirectories\OddLines\obj\Debug\OddLines.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StreamsFilesDirectories\OddLines\obj\Debug\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StreamsFilesDirectories\OddLines\obj\Debug\OddLines.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\OddLines\obj\Debug\OddLines.pdb

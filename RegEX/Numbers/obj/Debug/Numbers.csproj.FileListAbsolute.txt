@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegEX\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\Acer\source\repos\RegEX\Numbers\bin\Debug\Numbers.exe
+C:\Users\Acer\source\repos\RegEX\Numbers\bin\Debug\Numbers.pdb
+C:\Users\Acer\source\repos\RegEX\Numbers\obj\Debug\Numbers.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegEX\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegEX\Numbers\obj\Debug\Numbers.exe
+C:\Users\Acer\source\repos\RegEX\Numbers\obj\Debug\Numbers.pdb

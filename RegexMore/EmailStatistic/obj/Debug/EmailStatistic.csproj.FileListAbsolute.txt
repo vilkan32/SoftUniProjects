@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegexMore\EmailStatistic\obj\Debug\EmailStatistic.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegexMore\EmailStatistic\obj\Debug\EmailStatistic.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegexMore\EmailStatistic\bin\Debug\EmailStatistic.exe.config
+C:\Users\Acer\source\repos\RegexMore\EmailStatistic\bin\Debug\EmailStatistic.exe
+C:\Users\Acer\source\repos\RegexMore\EmailStatistic\bin\Debug\EmailStatistic.pdb
+C:\Users\Acer\source\repos\RegexMore\EmailStatistic\obj\Debug\EmailStatistic.exe
+C:\Users\Acer\source\repos\RegexMore\EmailStatistic\obj\Debug\EmailStatistic.pdb

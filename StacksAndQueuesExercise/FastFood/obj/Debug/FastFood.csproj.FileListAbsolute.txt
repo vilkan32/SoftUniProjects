@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\FastFood\bin\Debug\FastFood.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\FastFood\bin\Debug\FastFood.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\FastFood\obj\Debug\FastFood.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\FastFood\obj\Debug\FastFood.pdb

@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.deps.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.runtimeconfig.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.pdb
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.AssemblyInfo.cs
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.pdb

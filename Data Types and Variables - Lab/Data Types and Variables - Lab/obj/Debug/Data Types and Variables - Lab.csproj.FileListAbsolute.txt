@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\Data Types and Variables - Lab.exe.config
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\Data Types and Variables - Lab.exe
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\Data Types and Variables - Lab.pdb
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\Data Types and Variables - Lab.csprojResolveAssemblyReference.cache
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\Data Types and Variables - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\Data Types and Variables - Lab.exe
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\Data Types and Variables - Lab.pdb

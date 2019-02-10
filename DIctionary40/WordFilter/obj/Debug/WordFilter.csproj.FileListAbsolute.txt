@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\DIctionary40\WordFilter\bin\Debug\WordFilter.exe.config
+C:\Users\Acer\source\repos\DIctionary40\WordFilter\bin\Debug\WordFilter.exe
+C:\Users\Acer\source\repos\DIctionary40\WordFilter\bin\Debug\WordFilter.pdb
+C:\Users\Acer\source\repos\DIctionary40\WordFilter\obj\Debug\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\WordFilter\obj\Debug\WordFilter.exe
+C:\Users\Acer\source\repos\DIctionary40\WordFilter\obj\Debug\WordFilter.pdb

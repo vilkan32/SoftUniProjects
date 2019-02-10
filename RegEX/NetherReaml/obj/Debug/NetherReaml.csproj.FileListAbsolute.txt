@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegEX\NetherReaml\bin\Debug\NetherReaml.exe.config
+C:\Users\Acer\source\repos\RegEX\NetherReaml\bin\Debug\NetherReaml.exe
+C:\Users\Acer\source\repos\RegEX\NetherReaml\bin\Debug\NetherReaml.pdb
+C:\Users\Acer\source\repos\RegEX\NetherReaml\obj\Debug\NetherReaml.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegEX\NetherReaml\obj\Debug\NetherReaml.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegEX\NetherReaml\obj\Debug\NetherReaml.exe
+C:\Users\Acer\source\repos\RegEX\NetherReaml\obj\Debug\NetherReaml.pdb

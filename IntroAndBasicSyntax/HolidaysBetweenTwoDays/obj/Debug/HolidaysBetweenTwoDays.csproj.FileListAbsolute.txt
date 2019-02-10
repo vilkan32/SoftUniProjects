@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\HolidaysBetweenTwoDays\bin\Debug\HolidaysBetweenTwoDays.exe.config
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\HolidaysBetweenTwoDays\bin\Debug\HolidaysBetweenTwoDays.exe
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\HolidaysBetweenTwoDays\bin\Debug\HolidaysBetweenTwoDays.pdb
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\HolidaysBetweenTwoDays\obj\Debug\HolidaysBetweenTwoDays.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\HolidaysBetweenTwoDays\obj\Debug\HolidaysBetweenTwoDays.exe
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\HolidaysBetweenTwoDays\obj\Debug\HolidaysBetweenTwoDays.pdb

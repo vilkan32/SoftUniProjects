@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ConsoleApp4\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\Acer\source\repos\ConsoleApp4\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\Acer\source\repos\ConsoleApp4\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\Acer\source\repos\ConsoleApp4\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp4\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\Acer\source\repos\ConsoleApp4\ConsoleApp15\obj\Debug\ConsoleApp15.pdb

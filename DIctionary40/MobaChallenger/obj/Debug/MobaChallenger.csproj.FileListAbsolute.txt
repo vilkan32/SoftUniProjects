@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\DIctionary40\MobaChallenger\bin\Debug\MobaChallenger.exe.config
+C:\Users\Acer\source\repos\DIctionary40\MobaChallenger\bin\Debug\MobaChallenger.exe
+C:\Users\Acer\source\repos\DIctionary40\MobaChallenger\bin\Debug\MobaChallenger.pdb
+C:\Users\Acer\source\repos\DIctionary40\MobaChallenger\obj\Debug\MobaChallenger.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\DIctionary40\MobaChallenger\obj\Debug\MobaChallenger.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\MobaChallenger\obj\Debug\MobaChallenger.exe
+C:\Users\Acer\source\repos\DIctionary40\MobaChallenger\obj\Debug\MobaChallenger.pdb

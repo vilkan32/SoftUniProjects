@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegexMore\Censorship\bin\Debug\Censorship.exe.config
+C:\Users\Acer\source\repos\RegexMore\Censorship\bin\Debug\Censorship.exe
+C:\Users\Acer\source\repos\RegexMore\Censorship\bin\Debug\Censorship.pdb
+C:\Users\Acer\source\repos\RegexMore\Censorship\obj\Debug\Censorship.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegexMore\Censorship\obj\Debug\Censorship.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegexMore\Censorship\obj\Debug\Censorship.exe
+C:\Users\Acer\source\repos\RegexMore\Censorship\obj\Debug\Censorship.pdb

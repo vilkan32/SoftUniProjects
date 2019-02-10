@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Arrays\ConsoleApp32\bin\Debug\ConsoleApp32.exe.config
+C:\Users\Acer\source\repos\Arrays\ConsoleApp32\bin\Debug\ConsoleApp32.exe
+C:\Users\Acer\source\repos\Arrays\ConsoleApp32\bin\Debug\ConsoleApp32.pdb
+C:\Users\Acer\source\repos\Arrays\ConsoleApp32\obj\Debug\ConsoleApp32.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Arrays\ConsoleApp32\obj\Debug\ConsoleApp32.exe
+C:\Users\Acer\source\repos\Arrays\ConsoleApp32\obj\Debug\ConsoleApp32.pdb
+C:\Users\Acer\source\repos\Arrays\ConsoleApp32\obj\Debug\ConsoleApp32.csprojAssemblyReference.cache

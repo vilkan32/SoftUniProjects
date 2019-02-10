@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegexMore\EmailMe\bin\Debug\EmailMe.exe.config
+C:\Users\Acer\source\repos\RegexMore\EmailMe\bin\Debug\EmailMe.exe
+C:\Users\Acer\source\repos\RegexMore\EmailMe\bin\Debug\EmailMe.pdb
+C:\Users\Acer\source\repos\RegexMore\EmailMe\obj\Debug\EmailMe.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegexMore\EmailMe\obj\Debug\EmailMe.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegexMore\EmailMe\obj\Debug\EmailMe.exe
+C:\Users\Acer\source\repos\RegexMore\EmailMe\obj\Debug\EmailMe.pdb

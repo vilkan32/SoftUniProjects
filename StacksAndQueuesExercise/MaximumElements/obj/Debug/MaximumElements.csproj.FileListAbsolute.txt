@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\MaximumElements\bin\Debug\MaximumElements.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\MaximumElements\bin\Debug\MaximumElements.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\MaximumElements\bin\Debug\MaximumElements.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\MaximumElements\obj\Debug\MaximumElements.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\MaximumElements\obj\Debug\MaximumElements.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\MaximumElements\obj\Debug\MaximumElements.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\MaximumElements\obj\Debug\MaximumElements.pdb

@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.deps.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.runtimeconfig.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp2.0\ListOfPredicates.pdb
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.AssemblyInfo.cs
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp2.0\ListOfPredicates.pdb

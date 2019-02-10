@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\StreamsExercises\WordCount\bin\Debug\netcoreapp2.0\WordCount.deps.json
+C:\Users\Acer\source\repos\StreamsExercises\WordCount\bin\Debug\netcoreapp2.0\WordCount.runtimeconfig.json
+C:\Users\Acer\source\repos\StreamsExercises\WordCount\bin\Debug\netcoreapp2.0\WordCount.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\StreamsExercises\WordCount\bin\Debug\netcoreapp2.0\WordCount.dll
+C:\Users\Acer\source\repos\StreamsExercises\WordCount\bin\Debug\netcoreapp2.0\WordCount.pdb
+C:\Users\Acer\source\repos\StreamsExercises\WordCount\obj\Debug\netcoreapp2.0\WordCount.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StreamsExercises\WordCount\obj\Debug\netcoreapp2.0\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StreamsExercises\WordCount\obj\Debug\netcoreapp2.0\WordCount.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\StreamsExercises\WordCount\obj\Debug\netcoreapp2.0\WordCount.AssemblyInfo.cs
+C:\Users\Acer\source\repos\StreamsExercises\WordCount\obj\Debug\netcoreapp2.0\WordCount.dll
+C:\Users\Acer\source\repos\StreamsExercises\WordCount\obj\Debug\netcoreapp2.0\WordCount.pdb

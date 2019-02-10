@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\DIctionary40\MinerTask\obj\Debug\MinerTask.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\MinerTask\bin\Debug\MinerTask.exe.config
+C:\Users\Acer\source\repos\DIctionary40\MinerTask\bin\Debug\MinerTask.exe
+C:\Users\Acer\source\repos\DIctionary40\MinerTask\bin\Debug\MinerTask.pdb
+C:\Users\Acer\source\repos\DIctionary40\MinerTask\obj\Debug\MinerTask.exe
+C:\Users\Acer\source\repos\DIctionary40\MinerTask\obj\Debug\MinerTask.pdb

@@ -1,0 +1,11 @@
+c:\users\acer\source\repos\StringTextProcessing40\TextFilter1\bin\Debug\netcoreapp2.0\TextFilter1.deps.json
+c:\users\acer\source\repos\StringTextProcessing40\TextFilter1\bin\Debug\netcoreapp2.0\TextFilter1.runtimeconfig.json
+c:\users\acer\source\repos\StringTextProcessing40\TextFilter1\bin\Debug\netcoreapp2.0\TextFilter1.runtimeconfig.dev.json
+c:\users\acer\source\repos\StringTextProcessing40\TextFilter1\bin\Debug\netcoreapp2.0\TextFilter1.dll
+c:\users\acer\source\repos\StringTextProcessing40\TextFilter1\bin\Debug\netcoreapp2.0\TextFilter1.pdb
+c:\users\acer\source\repos\StringTextProcessing40\TextFilter1\obj\Debug\netcoreapp2.0\TextFilter1.csprojAssemblyReference.cache
+c:\users\acer\source\repos\StringTextProcessing40\TextFilter1\obj\Debug\netcoreapp2.0\TextFilter1.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\StringTextProcessing40\TextFilter1\obj\Debug\netcoreapp2.0\TextFilter1.AssemblyInfoInputs.cache
+c:\users\acer\source\repos\StringTextProcessing40\TextFilter1\obj\Debug\netcoreapp2.0\TextFilter1.AssemblyInfo.cs
+c:\users\acer\source\repos\StringTextProcessing40\TextFilter1\obj\Debug\netcoreapp2.0\TextFilter1.dll
+c:\users\acer\source\repos\StringTextProcessing40\TextFilter1\obj\Debug\netcoreapp2.0\TextFilter1.pdb

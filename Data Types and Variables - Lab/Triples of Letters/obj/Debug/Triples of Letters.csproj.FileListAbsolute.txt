@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Triples of Letters\bin\Debug\Triples of Letters.exe.config
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Triples of Letters\bin\Debug\Triples of Letters.exe
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Triples of Letters\bin\Debug\Triples of Letters.pdb
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Triples of Letters\obj\Debug\Triples of Letters.csprojResolveAssemblyReference.cache
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Triples of Letters\obj\Debug\Triples of Letters.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Triples of Letters\obj\Debug\Triples of Letters.exe
+C:\Users\Acer\source\repos\Data Types and Variables - Lab\Triples of Letters\obj\Debug\Triples of Letters.pdb

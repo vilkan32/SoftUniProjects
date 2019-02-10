@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\MaxMinElements\bin\Debug\MaxMinElements.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\MaxMinElements\bin\Debug\MaxMinElements.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\MaxMinElements\bin\Debug\MaxMinElements.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\MaxMinElements\obj\Debug\MaxMinElements.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\MaxMinElements\obj\Debug\MaxMinElements.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\MaxMinElements\obj\Debug\MaxMinElements.pdb

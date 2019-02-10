@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Matrix\MaxSum\bin\Debug\MaxSum.exe.config
+C:\Users\Acer\source\repos\Matrix\MaxSum\bin\Debug\MaxSum.exe
+C:\Users\Acer\source\repos\Matrix\MaxSum\bin\Debug\MaxSum.pdb
+C:\Users\Acer\source\repos\Matrix\MaxSum\obj\Debug\MaxSum.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Matrix\MaxSum\obj\Debug\MaxSum.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Matrix\MaxSum\obj\Debug\MaxSum.exe
+C:\Users\Acer\source\repos\Matrix\MaxSum\obj\Debug\MaxSum.pdb

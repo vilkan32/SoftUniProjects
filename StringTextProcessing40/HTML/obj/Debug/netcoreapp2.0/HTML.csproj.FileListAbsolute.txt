@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\StringTextProcessing40\HTML\bin\Debug\netcoreapp2.0\HTML.deps.json
+C:\Users\Acer\source\repos\StringTextProcessing40\HTML\bin\Debug\netcoreapp2.0\HTML.runtimeconfig.json
+C:\Users\Acer\source\repos\StringTextProcessing40\HTML\bin\Debug\netcoreapp2.0\HTML.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\StringTextProcessing40\HTML\bin\Debug\netcoreapp2.0\HTML.dll
+C:\Users\Acer\source\repos\StringTextProcessing40\HTML\bin\Debug\netcoreapp2.0\HTML.pdb
+C:\Users\Acer\source\repos\StringTextProcessing40\HTML\obj\Debug\netcoreapp2.0\HTML.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StringTextProcessing40\HTML\obj\Debug\netcoreapp2.0\HTML.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\StringTextProcessing40\HTML\obj\Debug\netcoreapp2.0\HTML.AssemblyInfo.cs
+C:\Users\Acer\source\repos\StringTextProcessing40\HTML\obj\Debug\netcoreapp2.0\HTML.dll
+C:\Users\Acer\source\repos\StringTextProcessing40\HTML\obj\Debug\netcoreapp2.0\HTML.pdb

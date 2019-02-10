@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Examsequence1\MeTubeStatistics\bin\Debug\MeTubeStatistics.exe.config
+C:\Users\Acer\source\repos\Examsequence1\MeTubeStatistics\bin\Debug\MeTubeStatistics.exe
+C:\Users\Acer\source\repos\Examsequence1\MeTubeStatistics\bin\Debug\MeTubeStatistics.pdb
+C:\Users\Acer\source\repos\Examsequence1\MeTubeStatistics\obj\Debug\MeTubeStatistics.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Examsequence1\MeTubeStatistics\obj\Debug\MeTubeStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Examsequence1\MeTubeStatistics\obj\Debug\MeTubeStatistics.exe
+C:\Users\Acer\source\repos\Examsequence1\MeTubeStatistics\obj\Debug\MeTubeStatistics.pdb

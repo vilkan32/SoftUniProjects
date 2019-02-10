@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\Conditional statements and loops\Basics - More Exercises\bin\Debug\Basics - More Exercises.exe.config
+C:\Users\Acer\source\repos\Conditional statements and loops\Basics - More Exercises\bin\Debug\Basics - More Exercises.exe
+C:\Users\Acer\source\repos\Conditional statements and loops\Basics - More Exercises\bin\Debug\Basics - More Exercises.pdb
+C:\Users\Acer\source\repos\Conditional statements and loops\Basics - More Exercises\obj\Debug\Basics - More Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Conditional statements and loops\Basics - More Exercises\obj\Debug\Basics - More Exercises.exe
+C:\Users\Acer\source\repos\Conditional statements and loops\Basics - More Exercises\obj\Debug\Basics - More Exercises.pdb

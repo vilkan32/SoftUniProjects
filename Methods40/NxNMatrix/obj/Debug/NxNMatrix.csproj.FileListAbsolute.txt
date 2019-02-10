@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Methods40\NxNMatrix\bin\Debug\NxNMatrix.exe.config
+C:\Users\Acer\source\repos\Methods40\NxNMatrix\bin\Debug\NxNMatrix.exe
+C:\Users\Acer\source\repos\Methods40\NxNMatrix\bin\Debug\NxNMatrix.pdb
+C:\Users\Acer\source\repos\Methods40\NxNMatrix\obj\Debug\NxNMatrix.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Methods40\NxNMatrix\obj\Debug\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Methods40\NxNMatrix\obj\Debug\NxNMatrix.exe
+C:\Users\Acer\source\repos\Methods40\NxNMatrix\obj\Debug\NxNMatrix.pdb

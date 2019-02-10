@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\FuncProgrammingExercise\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.deps.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.runtimeconfig.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.pdb
+C:\Users\Acer\source\repos\FuncProgrammingExercise\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.AssemblyInfo.cs
+C:\Users\Acer\source\repos\FuncProgrammingExercise\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.pdb

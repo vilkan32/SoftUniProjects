@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MatrixExercise\BombTheBasement\bin\Debug\BombTheBasement.exe.config
+C:\Users\Acer\source\repos\MatrixExercise\BombTheBasement\bin\Debug\BombTheBasement.exe
+C:\Users\Acer\source\repos\MatrixExercise\BombTheBasement\bin\Debug\BombTheBasement.pdb
+C:\Users\Acer\source\repos\MatrixExercise\BombTheBasement\obj\Debug\BombTheBasement.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MatrixExercise\BombTheBasement\obj\Debug\BombTheBasement.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MatrixExercise\BombTheBasement\obj\Debug\BombTheBasement.exe
+C:\Users\Acer\source\repos\MatrixExercise\BombTheBasement\obj\Debug\BombTheBasement.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\WarDrobe\bin\Debug\WarDrobe.exe.config
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\WarDrobe\bin\Debug\WarDrobe.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\WarDrobe\bin\Debug\WarDrobe.pdb
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\WarDrobe\obj\Debug\WarDrobe.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\WarDrobe\obj\Debug\WarDrobe.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\WarDrobe\obj\Debug\WarDrobe.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\WarDrobe\obj\Debug\WarDrobe.pdb

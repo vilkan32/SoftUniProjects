@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ListsLab40\CarRace\bin\Debug\CarRace.exe.config
+C:\Users\Acer\source\repos\ListsLab40\CarRace\bin\Debug\CarRace.exe
+C:\Users\Acer\source\repos\ListsLab40\CarRace\bin\Debug\CarRace.pdb
+C:\Users\Acer\source\repos\ListsLab40\CarRace\obj\Debug\CarRace.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ListsLab40\CarRace\obj\Debug\CarRace.exe
+C:\Users\Acer\source\repos\ListsLab40\CarRace\obj\Debug\CarRace.pdb
+C:\Users\Acer\source\repos\ListsLab40\CarRace\obj\Debug\CarRace.csprojAssemblyReference.cache

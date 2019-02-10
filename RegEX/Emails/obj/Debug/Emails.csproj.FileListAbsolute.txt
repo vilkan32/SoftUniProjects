@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegEX\Emails\bin\Debug\Emails.exe.config
+C:\Users\Acer\source\repos\RegEX\Emails\bin\Debug\Emails.exe
+C:\Users\Acer\source\repos\RegEX\Emails\bin\Debug\Emails.pdb
+C:\Users\Acer\source\repos\RegEX\Emails\obj\Debug\Emails.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegEX\Emails\obj\Debug\Emails.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegEX\Emails\obj\Debug\Emails.exe
+C:\Users\Acer\source\repos\RegEX\Emails\obj\Debug\Emails.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Classes40\Factoriel\bin\Debug\Factoriel.exe.config
+C:\Users\Acer\source\repos\Classes40\Factoriel\bin\Debug\Factoriel.exe
+C:\Users\Acer\source\repos\Classes40\Factoriel\bin\Debug\Factoriel.pdb
+C:\Users\Acer\source\repos\Classes40\Factoriel\obj\Debug\Factoriel.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Classes40\Factoriel\obj\Debug\Factoriel.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Classes40\Factoriel\obj\Debug\Factoriel.exe
+C:\Users\Acer\source\repos\Classes40\Factoriel\obj\Debug\Factoriel.pdb

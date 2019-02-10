@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\DIctionary40\Ranking\bin\Debug\Ranking.exe.config
+C:\Users\Acer\source\repos\DIctionary40\Ranking\bin\Debug\Ranking.exe
+C:\Users\Acer\source\repos\DIctionary40\Ranking\bin\Debug\Ranking.pdb
+C:\Users\Acer\source\repos\DIctionary40\Ranking\obj\Debug\Ranking.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\DIctionary40\Ranking\obj\Debug\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\Ranking\obj\Debug\Ranking.exe
+C:\Users\Acer\source\repos\DIctionary40\Ranking\obj\Debug\Ranking.pdb

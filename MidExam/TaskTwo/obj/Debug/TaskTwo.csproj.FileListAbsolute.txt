@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MidExam\TaskTwo\bin\Debug\TaskTwo.exe.config
+C:\Users\Acer\source\repos\MidExam\TaskTwo\bin\Debug\TaskTwo.exe
+C:\Users\Acer\source\repos\MidExam\TaskTwo\bin\Debug\TaskTwo.pdb
+C:\Users\Acer\source\repos\MidExam\TaskTwo\obj\Debug\TaskTwo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MidExam\TaskTwo\obj\Debug\TaskTwo.exe
+C:\Users\Acer\source\repos\MidExam\TaskTwo\obj\Debug\TaskTwo.pdb
+C:\Users\Acer\source\repos\MidExam\TaskTwo\obj\Debug\TaskTwo.csprojAssemblyReference.cache

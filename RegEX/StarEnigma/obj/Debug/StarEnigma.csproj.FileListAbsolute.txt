@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegEX\StarEnigma\bin\Debug\StarEnigma.exe.config
+C:\Users\Acer\source\repos\RegEX\StarEnigma\bin\Debug\StarEnigma.exe
+C:\Users\Acer\source\repos\RegEX\StarEnigma\bin\Debug\StarEnigma.pdb
+C:\Users\Acer\source\repos\RegEX\StarEnigma\obj\Debug\StarEnigma.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegEX\StarEnigma\obj\Debug\StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegEX\StarEnigma\obj\Debug\StarEnigma.exe
+C:\Users\Acer\source\repos\RegEX\StarEnigma\obj\Debug\StarEnigma.pdb

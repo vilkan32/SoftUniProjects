@@ -1,0 +1,7 @@
+c:\users\acer\source\repos\StringTextProcessing40\ReverseStrings\bin\Debug\ReverseStrings.exe.config
+c:\users\acer\source\repos\StringTextProcessing40\ReverseStrings\bin\Debug\ReverseStrings.exe
+c:\users\acer\source\repos\StringTextProcessing40\ReverseStrings\bin\Debug\ReverseStrings.pdb
+c:\users\acer\source\repos\StringTextProcessing40\ReverseStrings\obj\Debug\ReverseStrings.csprojAssemblyReference.cache
+c:\users\acer\source\repos\StringTextProcessing40\ReverseStrings\obj\Debug\ReverseStrings.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\StringTextProcessing40\ReverseStrings\obj\Debug\ReverseStrings.exe
+c:\users\acer\source\repos\StringTextProcessing40\ReverseStrings\obj\Debug\ReverseStrings.pdb

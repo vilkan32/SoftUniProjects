@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegEX\Furniture\bin\Debug\Furniture.exe.config
+C:\Users\Acer\source\repos\RegEX\Furniture\bin\Debug\Furniture.exe
+C:\Users\Acer\source\repos\RegEX\Furniture\bin\Debug\Furniture.pdb
+C:\Users\Acer\source\repos\RegEX\Furniture\obj\Debug\Furniture.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegEX\Furniture\obj\Debug\Furniture.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegEX\Furniture\obj\Debug\Furniture.exe
+C:\Users\Acer\source\repos\RegEX\Furniture\obj\Debug\Furniture.pdb

@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\LinkedListWorkshop\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.deps.json
+C:\Users\Acer\source\repos\LinkedListWorkshop\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.runtimeconfig.json
+C:\Users\Acer\source\repos\LinkedListWorkshop\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\LinkedListWorkshop\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.dll
+C:\Users\Acer\source\repos\LinkedListWorkshop\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.pdb
+C:\Users\Acer\source\repos\LinkedListWorkshop\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\LinkedListWorkshop\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\LinkedListWorkshop\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\LinkedListWorkshop\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.AssemblyInfo.cs
+C:\Users\Acer\source\repos\LinkedListWorkshop\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.dll
+C:\Users\Acer\source\repos\LinkedListWorkshop\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.pdb

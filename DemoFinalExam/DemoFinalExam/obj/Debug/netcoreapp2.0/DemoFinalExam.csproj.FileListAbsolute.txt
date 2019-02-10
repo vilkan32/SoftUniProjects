@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\DemoFinalExam\DemoFinalExam\bin\Debug\netcoreapp2.0\DemoFinalExam.deps.json
+C:\Users\Acer\source\repos\DemoFinalExam\DemoFinalExam\bin\Debug\netcoreapp2.0\DemoFinalExam.runtimeconfig.json
+C:\Users\Acer\source\repos\DemoFinalExam\DemoFinalExam\bin\Debug\netcoreapp2.0\DemoFinalExam.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\DemoFinalExam\DemoFinalExam\bin\Debug\netcoreapp2.0\DemoFinalExam.dll
+C:\Users\Acer\source\repos\DemoFinalExam\DemoFinalExam\bin\Debug\netcoreapp2.0\DemoFinalExam.pdb
+C:\Users\Acer\source\repos\DemoFinalExam\DemoFinalExam\obj\Debug\netcoreapp2.0\DemoFinalExam.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DemoFinalExam\DemoFinalExam\obj\Debug\netcoreapp2.0\DemoFinalExam.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\DemoFinalExam\DemoFinalExam\obj\Debug\netcoreapp2.0\DemoFinalExam.AssemblyInfo.cs
+C:\Users\Acer\source\repos\DemoFinalExam\DemoFinalExam\obj\Debug\netcoreapp2.0\DemoFinalExam.dll
+C:\Users\Acer\source\repos\DemoFinalExam\DemoFinalExam\obj\Debug\netcoreapp2.0\DemoFinalExam.pdb
+C:\Users\Acer\source\repos\DemoFinalExam\DemoFinalExam\obj\Debug\netcoreapp2.0\DemoFinalExam.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\CountSymbols\bin\Debug\CountSymbols.exe.config
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\CountSymbols\bin\Debug\CountSymbols.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\CountSymbols\bin\Debug\CountSymbols.pdb
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\CountSymbols\obj\Debug\CountSymbols.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\CountSymbols\obj\Debug\CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\CountSymbols\obj\Debug\CountSymbols.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\CountSymbols\obj\Debug\CountSymbols.pdb

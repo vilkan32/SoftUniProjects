@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StringTextProcessing40\TreasureFinder\bin\Debug\TreasureFinder.exe.config
+C:\Users\Acer\source\repos\StringTextProcessing40\TreasureFinder\bin\Debug\TreasureFinder.exe
+C:\Users\Acer\source\repos\StringTextProcessing40\TreasureFinder\bin\Debug\TreasureFinder.pdb
+C:\Users\Acer\source\repos\StringTextProcessing40\TreasureFinder\obj\Debug\TreasureFinder.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StringTextProcessing40\TreasureFinder\obj\Debug\TreasureFinder.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StringTextProcessing40\TreasureFinder\obj\Debug\TreasureFinder.exe
+C:\Users\Acer\source\repos\StringTextProcessing40\TreasureFinder\obj\Debug\TreasureFinder.pdb

@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\DIctionary40\OddOccurances\bin\Debug\OddOccurances.exe.config
+C:\Users\Acer\source\repos\DIctionary40\OddOccurances\bin\Debug\OddOccurances.exe
+C:\Users\Acer\source\repos\DIctionary40\OddOccurances\bin\Debug\OddOccurances.pdb
+C:\Users\Acer\source\repos\DIctionary40\OddOccurances\obj\Debug\OddOccurances.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\OddOccurances\obj\Debug\OddOccurances.exe
+C:\Users\Acer\source\repos\DIctionary40\OddOccurances\obj\Debug\OddOccurances.pdb

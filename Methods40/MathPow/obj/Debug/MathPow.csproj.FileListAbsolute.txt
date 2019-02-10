@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\Methods40\MathPow\bin\Debug\MathPow.exe.config
+C:\Users\Acer\source\repos\Methods40\MathPow\bin\Debug\MathPow.exe
+C:\Users\Acer\source\repos\Methods40\MathPow\bin\Debug\MathPow.pdb
+C:\Users\Acer\source\repos\Methods40\MathPow\obj\Debug\MathPow.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Methods40\MathPow\obj\Debug\MathPow.exe
+C:\Users\Acer\source\repos\Methods40\MathPow\obj\Debug\MathPow.pdb

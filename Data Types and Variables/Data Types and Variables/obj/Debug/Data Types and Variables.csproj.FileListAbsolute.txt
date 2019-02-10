@@ -1,0 +1,7 @@
+c:\users\acer\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\Data Types and Variables.exe.config
+c:\users\acer\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\Data Types and Variables.exe
+c:\users\acer\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\Data Types and Variables.pdb
+c:\users\acer\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\Data Types and Variables.csprojResolveAssemblyReference.cache
+c:\users\acer\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\Data Types and Variables.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\Data Types and Variables.exe
+c:\users\acer\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\Data Types and Variables.pdb

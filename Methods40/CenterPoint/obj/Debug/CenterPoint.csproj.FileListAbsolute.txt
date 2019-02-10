@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Methods40\CenterPoint\bin\Debug\CenterPoint.exe.config
+C:\Users\Acer\source\repos\Methods40\CenterPoint\bin\Debug\CenterPoint.exe
+C:\Users\Acer\source\repos\Methods40\CenterPoint\bin\Debug\CenterPoint.pdb
+C:\Users\Acer\source\repos\Methods40\CenterPoint\obj\Debug\CenterPoint.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Methods40\CenterPoint\obj\Debug\CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Methods40\CenterPoint\obj\Debug\CenterPoint.exe
+C:\Users\Acer\source\repos\Methods40\CenterPoint\obj\Debug\CenterPoint.pdb

@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\DIctionary40\CountCharsInString\bin\Debug\CountCharsInString.exe.config
+C:\Users\Acer\source\repos\DIctionary40\CountCharsInString\bin\Debug\CountCharsInString.exe
+C:\Users\Acer\source\repos\DIctionary40\CountCharsInString\bin\Debug\CountCharsInString.pdb
+C:\Users\Acer\source\repos\DIctionary40\CountCharsInString\obj\Debug\CountCharsInString.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\CountCharsInString\obj\Debug\CountCharsInString.exe
+C:\Users\Acer\source\repos\DIctionary40\CountCharsInString\obj\Debug\CountCharsInString.pdb

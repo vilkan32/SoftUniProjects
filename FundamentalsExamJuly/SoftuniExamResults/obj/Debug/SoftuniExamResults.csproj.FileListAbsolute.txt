@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\FundamentalsExamJuly\SoftuniExamResults\obj\Debug\SoftuniExamResults.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\FundamentalsExamJuly\SoftuniExamResults\obj\Debug\SoftuniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FundamentalsExamJuly\SoftuniExamResults\bin\Debug\SoftuniExamResults.exe.config
+C:\Users\Acer\source\repos\FundamentalsExamJuly\SoftuniExamResults\bin\Debug\SoftuniExamResults.exe
+C:\Users\Acer\source\repos\FundamentalsExamJuly\SoftuniExamResults\bin\Debug\SoftuniExamResults.pdb
+C:\Users\Acer\source\repos\FundamentalsExamJuly\SoftuniExamResults\obj\Debug\SoftuniExamResults.exe
+C:\Users\Acer\source\repos\FundamentalsExamJuly\SoftuniExamResults\obj\Debug\SoftuniExamResults.pdb

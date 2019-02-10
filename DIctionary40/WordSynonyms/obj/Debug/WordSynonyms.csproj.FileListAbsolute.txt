@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\DIctionary40\WordSynonyms\bin\Debug\WordSynonyms.exe.config
+C:\Users\Acer\source\repos\DIctionary40\WordSynonyms\bin\Debug\WordSynonyms.exe
+C:\Users\Acer\source\repos\DIctionary40\WordSynonyms\bin\Debug\WordSynonyms.pdb
+C:\Users\Acer\source\repos\DIctionary40\WordSynonyms\obj\Debug\WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\WordSynonyms\obj\Debug\WordSynonyms.exe
+C:\Users\Acer\source\repos\DIctionary40\WordSynonyms\obj\Debug\WordSynonyms.pdb

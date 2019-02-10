@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StringTextProcessing\MelrahShake\bin\Debug\MelrahShake.exe.config
+C:\Users\Acer\source\repos\StringTextProcessing\MelrahShake\bin\Debug\MelrahShake.exe
+C:\Users\Acer\source\repos\StringTextProcessing\MelrahShake\bin\Debug\MelrahShake.pdb
+C:\Users\Acer\source\repos\StringTextProcessing\MelrahShake\obj\Debug\MelrahShake.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StringTextProcessing\MelrahShake\obj\Debug\MelrahShake.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StringTextProcessing\MelrahShake\obj\Debug\MelrahShake.exe
+C:\Users\Acer\source\repos\StringTextProcessing\MelrahShake\obj\Debug\MelrahShake.pdb

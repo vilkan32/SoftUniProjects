@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\SoftuniParty\bin\Debug\SoftuniParty.exe.config
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\SoftuniParty\bin\Debug\SoftuniParty.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\SoftuniParty\bin\Debug\SoftuniParty.pdb
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\SoftuniParty\obj\Debug\SoftuniParty.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\SoftuniParty\obj\Debug\SoftuniParty.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\SoftuniParty\obj\Debug\SoftuniParty.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\SoftuniParty\obj\Debug\SoftuniParty.pdb

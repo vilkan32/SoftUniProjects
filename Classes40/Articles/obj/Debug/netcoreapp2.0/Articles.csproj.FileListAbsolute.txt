@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Classes40\Articles\bin\Debug\netcoreapp2.0\Articles.deps.json
+C:\Users\Acer\source\repos\Classes40\Articles\bin\Debug\netcoreapp2.0\Articles.runtimeconfig.json
+C:\Users\Acer\source\repos\Classes40\Articles\bin\Debug\netcoreapp2.0\Articles.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Classes40\Articles\bin\Debug\netcoreapp2.0\Articles.dll
+C:\Users\Acer\source\repos\Classes40\Articles\bin\Debug\netcoreapp2.0\Articles.pdb
+C:\Users\Acer\source\repos\Classes40\Articles\obj\Debug\netcoreapp2.0\Articles.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Classes40\Articles\obj\Debug\netcoreapp2.0\Articles.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Classes40\Articles\obj\Debug\netcoreapp2.0\Articles.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Classes40\Articles\obj\Debug\netcoreapp2.0\Articles.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Classes40\Articles\obj\Debug\netcoreapp2.0\Articles.dll
+C:\Users\Acer\source\repos\Classes40\Articles\obj\Debug\netcoreapp2.0\Articles.pdb

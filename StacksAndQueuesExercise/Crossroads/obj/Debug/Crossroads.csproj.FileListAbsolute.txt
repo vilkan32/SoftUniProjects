@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Crossroads\bin\Debug\Crossroads.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Crossroads\bin\Debug\Crossroads.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Crossroads\bin\Debug\Crossroads.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Crossroads\obj\Debug\Crossroads.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Crossroads\obj\Debug\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Crossroads\obj\Debug\Crossroads.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Crossroads\obj\Debug\Crossroads.pdb

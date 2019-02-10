@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\PoisonousPlants\bin\Debug\netcoreapp2.0\PoisonousPlants.deps.json
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\PoisonousPlants\bin\Debug\netcoreapp2.0\PoisonousPlants.runtimeconfig.json
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\PoisonousPlants\bin\Debug\netcoreapp2.0\PoisonousPlants.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\PoisonousPlants\bin\Debug\netcoreapp2.0\PoisonousPlants.dll
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\PoisonousPlants\bin\Debug\netcoreapp2.0\PoisonousPlants.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\PoisonousPlants\obj\Debug\netcoreapp2.0\PoisonousPlants.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\PoisonousPlants\obj\Debug\netcoreapp2.0\PoisonousPlants.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\PoisonousPlants\obj\Debug\netcoreapp2.0\PoisonousPlants.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\PoisonousPlants\obj\Debug\netcoreapp2.0\PoisonousPlants.AssemblyInfo.cs
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\PoisonousPlants\obj\Debug\netcoreapp2.0\PoisonousPlants.dll
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\PoisonousPlants\obj\Debug\netcoreapp2.0\PoisonousPlants.pdb

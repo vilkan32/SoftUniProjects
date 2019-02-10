@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MatrixExercise\KnightGame\obj\Debug\KnightGame.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MatrixExercise\KnightGame\obj\Debug\KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MatrixExercise\KnightGame\bin\Debug\KnightGame.exe.config
+C:\Users\Acer\source\repos\MatrixExercise\KnightGame\bin\Debug\KnightGame.exe
+C:\Users\Acer\source\repos\MatrixExercise\KnightGame\bin\Debug\KnightGame.pdb
+C:\Users\Acer\source\repos\MatrixExercise\KnightGame\obj\Debug\KnightGame.exe
+C:\Users\Acer\source\repos\MatrixExercise\KnightGame\obj\Debug\KnightGame.pdb

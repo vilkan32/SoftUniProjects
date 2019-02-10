@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Classes40\ShoppingSpree\obj\Debug\ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Classes40\ShoppingSpree\obj\Debug\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Classes40\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+C:\Users\Acer\source\repos\Classes40\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+C:\Users\Acer\source\repos\Classes40\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+C:\Users\Acer\source\repos\Classes40\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+C:\Users\Acer\source\repos\Classes40\ShoppingSpree\obj\Debug\ShoppingSpree.pdb

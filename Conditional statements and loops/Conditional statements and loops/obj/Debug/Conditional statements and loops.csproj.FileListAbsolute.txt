@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Conditional statements and loops\Conditional statements and loops\bin\Debug\Conditional statements and loops.exe.config
+C:\Users\Acer\source\repos\Conditional statements and loops\Conditional statements and loops\bin\Debug\Conditional statements and loops.exe
+C:\Users\Acer\source\repos\Conditional statements and loops\Conditional statements and loops\bin\Debug\Conditional statements and loops.pdb
+C:\Users\Acer\source\repos\Conditional statements and loops\Conditional statements and loops\obj\Debug\Conditional statements and loops.csprojResolveAssemblyReference.cache
+C:\Users\Acer\source\repos\Conditional statements and loops\Conditional statements and loops\obj\Debug\Conditional statements and loops.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Conditional statements and loops\Conditional statements and loops\obj\Debug\Conditional statements and loops.exe
+C:\Users\Acer\source\repos\Conditional statements and loops\Conditional statements and loops\obj\Debug\Conditional statements and loops.pdb

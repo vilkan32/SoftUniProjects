@@ -1,0 +1,6 @@
+c:\Users\Acer\source\repos\Matrix\PrimaryDiagonal\bin\Debug\PrimaryDiagonal.exe.config
+c:\Users\Acer\source\repos\Matrix\PrimaryDiagonal\bin\Debug\PrimaryDiagonal.exe
+c:\Users\Acer\source\repos\Matrix\PrimaryDiagonal\bin\Debug\PrimaryDiagonal.pdb
+c:\Users\Acer\source\repos\Matrix\PrimaryDiagonal\obj\Debug\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+c:\Users\Acer\source\repos\Matrix\PrimaryDiagonal\obj\Debug\PrimaryDiagonal.exe
+c:\Users\Acer\source\repos\Matrix\PrimaryDiagonal\obj\Debug\PrimaryDiagonal.pdb

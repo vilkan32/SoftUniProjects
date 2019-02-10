@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Conditional statements and loops\Neighbourhood war\bin\Debug\Neighbourhood war.exe.config
+C:\Users\Acer\source\repos\Conditional statements and loops\Neighbourhood war\bin\Debug\Neighbourhood war.exe
+C:\Users\Acer\source\repos\Conditional statements and loops\Neighbourhood war\bin\Debug\Neighbourhood war.pdb
+C:\Users\Acer\source\repos\Conditional statements and loops\Neighbourhood war\obj\Debug\Neighbourhood war.csprojResolveAssemblyReference.cache
+C:\Users\Acer\source\repos\Conditional statements and loops\Neighbourhood war\obj\Debug\Neighbourhood war.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Conditional statements and loops\Neighbourhood war\obj\Debug\Neighbourhood war.exe
+C:\Users\Acer\source\repos\Conditional statements and loops\Neighbourhood war\obj\Debug\Neighbourhood war.pdb

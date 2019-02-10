@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegEX\CaptureMonths\bin\Debug\CaptureMonths.exe.config
+C:\Users\Acer\source\repos\RegEX\CaptureMonths\bin\Debug\CaptureMonths.exe
+C:\Users\Acer\source\repos\RegEX\CaptureMonths\bin\Debug\CaptureMonths.pdb
+C:\Users\Acer\source\repos\RegEX\CaptureMonths\obj\Debug\CaptureMonths.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegEX\CaptureMonths\obj\Debug\CaptureMonths.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegEX\CaptureMonths\obj\Debug\CaptureMonths.exe
+C:\Users\Acer\source\repos\RegEX\CaptureMonths\obj\Debug\CaptureMonths.pdb

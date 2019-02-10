@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\StackFibonacci\obj\Debug\StackFibonacci.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\StackFibonacci\obj\Debug\StackFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\StackFibonacci\bin\Debug\StackFibonacci.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\StackFibonacci\bin\Debug\StackFibonacci.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\StackFibonacci\bin\Debug\StackFibonacci.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\StackFibonacci\obj\Debug\StackFibonacci.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\StackFibonacci\obj\Debug\StackFibonacci.pdb

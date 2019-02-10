@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MatrixExercise\MatrixExercise\bin\Debug\MatrixExercise.exe.config
+C:\Users\Acer\source\repos\MatrixExercise\MatrixExercise\bin\Debug\MatrixExercise.exe
+C:\Users\Acer\source\repos\MatrixExercise\MatrixExercise\bin\Debug\MatrixExercise.pdb
+C:\Users\Acer\source\repos\MatrixExercise\MatrixExercise\obj\Debug\MatrixExercise.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MatrixExercise\MatrixExercise\obj\Debug\MatrixExercise.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MatrixExercise\MatrixExercise\obj\Debug\MatrixExercise.exe
+C:\Users\Acer\source\repos\MatrixExercise\MatrixExercise\obj\Debug\MatrixExercise.pdb

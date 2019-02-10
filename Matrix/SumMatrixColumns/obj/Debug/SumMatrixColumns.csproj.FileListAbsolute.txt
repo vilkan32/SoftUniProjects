@@ -1,0 +1,7 @@
+c:\Users\Acer\source\repos\Matrix\SumMatrixColumns\bin\Debug\SumMatrixColumns.exe.config
+c:\Users\Acer\source\repos\Matrix\SumMatrixColumns\bin\Debug\SumMatrixColumns.exe
+c:\Users\Acer\source\repos\Matrix\SumMatrixColumns\bin\Debug\SumMatrixColumns.pdb
+c:\Users\Acer\source\repos\Matrix\SumMatrixColumns\obj\Debug\SumMatrixColumns.csprojAssemblyReference.cache
+c:\Users\Acer\source\repos\Matrix\SumMatrixColumns\obj\Debug\SumMatrixColumns.csproj.CoreCompileInputs.cache
+c:\Users\Acer\source\repos\Matrix\SumMatrixColumns\obj\Debug\SumMatrixColumns.exe
+c:\Users\Acer\source\repos\Matrix\SumMatrixColumns\obj\Debug\SumMatrixColumns.pdb

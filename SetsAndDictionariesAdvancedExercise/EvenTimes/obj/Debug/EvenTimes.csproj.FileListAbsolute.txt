@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\EvenTimes.exe.config
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\EvenTimes.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\EvenTimes.pdb
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\EvenTimes.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\EvenTimes.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\EvenTimes.pdb

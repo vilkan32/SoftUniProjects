@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Classes40\VehicleCatalog\bin\Debug\VehicleCatalog.exe.config
+C:\Users\Acer\source\repos\Classes40\VehicleCatalog\bin\Debug\VehicleCatalog.exe
+C:\Users\Acer\source\repos\Classes40\VehicleCatalog\bin\Debug\VehicleCatalog.pdb
+C:\Users\Acer\source\repos\Classes40\VehicleCatalog\obj\Debug\VehicleCatalog.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Classes40\VehicleCatalog\obj\Debug\VehicleCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Classes40\VehicleCatalog\obj\Debug\VehicleCatalog.exe
+C:\Users\Acer\source\repos\Classes40\VehicleCatalog\obj\Debug\VehicleCatalog.pdb

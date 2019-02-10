@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Conditional statements and loops\BPM Counter\obj\Debug\BPM Counter.csprojResolveAssemblyReference.cache
+C:\Users\Acer\source\repos\Conditional statements and loops\BPM Counter\obj\Debug\BPM Counter.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Conditional statements and loops\BPM Counter\bin\Debug\BPM Counter.exe.config
+C:\Users\Acer\source\repos\Conditional statements and loops\BPM Counter\bin\Debug\BPM Counter.exe
+C:\Users\Acer\source\repos\Conditional statements and loops\BPM Counter\bin\Debug\BPM Counter.pdb
+C:\Users\Acer\source\repos\Conditional statements and loops\BPM Counter\obj\Debug\BPM Counter.exe
+C:\Users\Acer\source\repos\Conditional statements and loops\BPM Counter\obj\Debug\BPM Counter.pdb

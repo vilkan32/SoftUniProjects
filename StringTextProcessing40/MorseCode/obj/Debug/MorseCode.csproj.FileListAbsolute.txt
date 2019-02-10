@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StringTextProcessing40\MorseCode\bin\Debug\MorseCode.exe.config
+C:\Users\Acer\source\repos\StringTextProcessing40\MorseCode\bin\Debug\MorseCode.exe
+C:\Users\Acer\source\repos\StringTextProcessing40\MorseCode\bin\Debug\MorseCode.pdb
+C:\Users\Acer\source\repos\StringTextProcessing40\MorseCode\obj\Debug\MorseCode.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StringTextProcessing40\MorseCode\obj\Debug\MorseCode.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StringTextProcessing40\MorseCode\obj\Debug\MorseCode.exe
+C:\Users\Acer\source\repos\StringTextProcessing40\MorseCode\obj\Debug\MorseCode.pdb

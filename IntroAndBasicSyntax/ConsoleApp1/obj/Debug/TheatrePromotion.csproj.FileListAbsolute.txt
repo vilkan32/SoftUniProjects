@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\ConsoleApp1\obj\Debug\TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Acer\source\repos\IntroAndBasicSyntax\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

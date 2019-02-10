@@ -1,0 +1,7 @@
+c:\users\acer\source\repos\Matrix\SumMatrixElements\bin\Debug\SumMatrixElements.exe.config
+c:\users\acer\source\repos\Matrix\SumMatrixElements\bin\Debug\SumMatrixElements.exe
+c:\users\acer\source\repos\Matrix\SumMatrixElements\bin\Debug\SumMatrixElements.pdb
+c:\users\acer\source\repos\Matrix\SumMatrixElements\obj\Debug\SumMatrixElements.csprojAssemblyReference.cache
+c:\users\acer\source\repos\Matrix\SumMatrixElements\obj\Debug\SumMatrixElements.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\Matrix\SumMatrixElements\obj\Debug\SumMatrixElements.exe
+c:\users\acer\source\repos\Matrix\SumMatrixElements\obj\Debug\SumMatrixElements.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ArraysExercises\EqualSums\bin\Debug\EqualSums.exe.config
+C:\Users\Acer\source\repos\ArraysExercises\EqualSums\bin\Debug\EqualSums.exe
+C:\Users\Acer\source\repos\ArraysExercises\EqualSums\bin\Debug\EqualSums.pdb
+C:\Users\Acer\source\repos\ArraysExercises\EqualSums\obj\Debug\EqualSums.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ArraysExercises\EqualSums\obj\Debug\EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ArraysExercises\EqualSums\obj\Debug\EqualSums.exe
+C:\Users\Acer\source\repos\ArraysExercises\EqualSums\obj\Debug\EqualSums.pdb

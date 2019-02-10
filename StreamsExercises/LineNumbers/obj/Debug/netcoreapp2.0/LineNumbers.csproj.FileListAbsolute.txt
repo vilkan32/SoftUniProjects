@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\StreamsExercises\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.deps.json
+C:\Users\Acer\source\repos\StreamsExercises\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.runtimeconfig.json
+C:\Users\Acer\source\repos\StreamsExercises\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\StreamsExercises\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.dll
+C:\Users\Acer\source\repos\StreamsExercises\LineNumbers\bin\Debug\netcoreapp2.0\LineNumbers.pdb
+C:\Users\Acer\source\repos\StreamsExercises\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StreamsExercises\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\StreamsExercises\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.AssemblyInfo.cs
+C:\Users\Acer\source\repos\StreamsExercises\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.dll
+C:\Users\Acer\source\repos\StreamsExercises\LineNumbers\obj\Debug\netcoreapp2.0\LineNumbers.pdb

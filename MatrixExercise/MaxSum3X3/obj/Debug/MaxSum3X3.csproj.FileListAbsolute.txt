@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MatrixExercise\MaxSum3X3\bin\Debug\MaxSum3X3.exe.config
+C:\Users\Acer\source\repos\MatrixExercise\MaxSum3X3\bin\Debug\MaxSum3X3.exe
+C:\Users\Acer\source\repos\MatrixExercise\MaxSum3X3\bin\Debug\MaxSum3X3.pdb
+C:\Users\Acer\source\repos\MatrixExercise\MaxSum3X3\obj\Debug\MaxSum3X3.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MatrixExercise\MaxSum3X3\obj\Debug\MaxSum3X3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MatrixExercise\MaxSum3X3\obj\Debug\MaxSum3X3.exe
+C:\Users\Acer\source\repos\MatrixExercise\MaxSum3X3\obj\Debug\MaxSum3X3.pdb

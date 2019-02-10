@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MidExam\TaskThree\bin\Debug\TaskThree.exe.config
+C:\Users\Acer\source\repos\MidExam\TaskThree\bin\Debug\TaskThree.exe
+C:\Users\Acer\source\repos\MidExam\TaskThree\bin\Debug\TaskThree.pdb
+C:\Users\Acer\source\repos\MidExam\TaskThree\obj\Debug\TaskThree.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MidExam\TaskThree\obj\Debug\TaskThree.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MidExam\TaskThree\obj\Debug\TaskThree.exe
+C:\Users\Acer\source\repos\MidExam\TaskThree\obj\Debug\TaskThree.pdb

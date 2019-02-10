@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Classes40\Date\bin\Debug\Date.exe.config
+C:\Users\Acer\source\repos\Classes40\Date\bin\Debug\Date.exe
+C:\Users\Acer\source\repos\Classes40\Date\bin\Debug\Date.pdb
+C:\Users\Acer\source\repos\Classes40\Date\obj\Debug\Date.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Classes40\Date\obj\Debug\Date.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Classes40\Date\obj\Debug\Date.exe
+C:\Users\Acer\source\repos\Classes40\Date\obj\Debug\Date.pdb

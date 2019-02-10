@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ArraysLab\RoundDoubles\bin\Debug\RoundDoubles.exe.config
+C:\Users\Acer\source\repos\ArraysLab\RoundDoubles\bin\Debug\RoundDoubles.exe
+C:\Users\Acer\source\repos\ArraysLab\RoundDoubles\bin\Debug\RoundDoubles.pdb
+C:\Users\Acer\source\repos\ArraysLab\RoundDoubles\obj\Debug\RoundDoubles.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ArraysLab\RoundDoubles\obj\Debug\RoundDoubles.exe
+C:\Users\Acer\source\repos\ArraysLab\RoundDoubles\obj\Debug\RoundDoubles.pdb

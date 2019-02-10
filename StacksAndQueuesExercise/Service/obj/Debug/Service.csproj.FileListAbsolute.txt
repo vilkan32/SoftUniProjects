@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Service\bin\Debug\Service.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Service\bin\Debug\Service.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Service\bin\Debug\Service.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Service\obj\Debug\Service.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\Service\obj\Debug\Service.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MatrixExercise\MutantVampireBunny\bin\Debug\MutantVampireBunny.exe.config
+C:\Users\Acer\source\repos\MatrixExercise\MutantVampireBunny\bin\Debug\MutantVampireBunny.exe
+C:\Users\Acer\source\repos\MatrixExercise\MutantVampireBunny\bin\Debug\MutantVampireBunny.pdb
+C:\Users\Acer\source\repos\MatrixExercise\MutantVampireBunny\obj\Debug\MutantVampireBunny.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MatrixExercise\MutantVampireBunny\obj\Debug\MutantVampireBunny.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MatrixExercise\MutantVampireBunny\obj\Debug\MutantVampireBunny.exe
+C:\Users\Acer\source\repos\MatrixExercise\MutantVampireBunny\obj\Debug\MutantVampireBunny.pdb

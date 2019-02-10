@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\FinalExamTechModule\SecondTask\bin\Debug\SecondTask.exe.config
+C:\Users\Acer\source\repos\FinalExamTechModule\SecondTask\bin\Debug\SecondTask.exe
+C:\Users\Acer\source\repos\FinalExamTechModule\SecondTask\bin\Debug\SecondTask.pdb
+C:\Users\Acer\source\repos\FinalExamTechModule\SecondTask\obj\Debug\SecondTask.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\FinalExamTechModule\SecondTask\obj\Debug\SecondTask.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FinalExamTechModule\SecondTask\obj\Debug\SecondTask.exe
+C:\Users\Acer\source\repos\FinalExamTechModule\SecondTask\obj\Debug\SecondTask.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\CupsAndBottles.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\CupsAndBottles.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\CupsAndBottles.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\CupsAndBottles.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\CupsAndBottles.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\CupsAndBottles.pdb

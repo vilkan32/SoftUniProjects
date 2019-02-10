@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\DIctionary40\StudentAcademy\bin\Debug\StudentAcademy.exe.config
+C:\Users\Acer\source\repos\DIctionary40\StudentAcademy\bin\Debug\StudentAcademy.exe
+C:\Users\Acer\source\repos\DIctionary40\StudentAcademy\bin\Debug\StudentAcademy.pdb
+C:\Users\Acer\source\repos\DIctionary40\StudentAcademy\obj\Debug\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\StudentAcademy\obj\Debug\StudentAcademy.exe
+C:\Users\Acer\source\repos\DIctionary40\StudentAcademy\obj\Debug\StudentAcademy.pdb

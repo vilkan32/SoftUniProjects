@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\DictionariesLINQLambda\DictionariesLINQLambda\bin\Debug\DictionariesLINQLambda.exe.config
+C:\Users\Acer\source\repos\DictionariesLINQLambda\DictionariesLINQLambda\bin\Debug\DictionariesLINQLambda.exe
+C:\Users\Acer\source\repos\DictionariesLINQLambda\DictionariesLINQLambda\bin\Debug\DictionariesLINQLambda.pdb
+C:\Users\Acer\source\repos\DictionariesLINQLambda\DictionariesLINQLambda\obj\Debug\DictionariesLINQLambda.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\DictionariesLINQLambda\DictionariesLINQLambda\obj\Debug\DictionariesLINQLambda.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DictionariesLINQLambda\DictionariesLINQLambda\obj\Debug\DictionariesLINQLambda.exe
+C:\Users\Acer\source\repos\DictionariesLINQLambda\DictionariesLINQLambda\obj\Debug\DictionariesLINQLambda.pdb

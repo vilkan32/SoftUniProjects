@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegexExercises\MatchNames\bin\Debug\MatchNames.exe.config
+C:\Users\Acer\source\repos\RegexExercises\MatchNames\bin\Debug\MatchNames.exe
+C:\Users\Acer\source\repos\RegexExercises\MatchNames\bin\Debug\MatchNames.pdb
+C:\Users\Acer\source\repos\RegexExercises\MatchNames\obj\Debug\MatchNames.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegexExercises\MatchNames\obj\Debug\MatchNames.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegexExercises\MatchNames\obj\Debug\MatchNames.exe
+C:\Users\Acer\source\repos\RegexExercises\MatchNames\obj\Debug\MatchNames.pdb

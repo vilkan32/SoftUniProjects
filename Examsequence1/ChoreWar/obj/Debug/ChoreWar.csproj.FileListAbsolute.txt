@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Examsequence1\ChoreWar\bin\Debug\ChoreWar.exe.config
+C:\Users\Acer\source\repos\Examsequence1\ChoreWar\bin\Debug\ChoreWar.exe
+C:\Users\Acer\source\repos\Examsequence1\ChoreWar\bin\Debug\ChoreWar.pdb
+C:\Users\Acer\source\repos\Examsequence1\ChoreWar\obj\Debug\ChoreWar.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Examsequence1\ChoreWar\obj\Debug\ChoreWar.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Examsequence1\ChoreWar\obj\Debug\ChoreWar.exe
+C:\Users\Acer\source\repos\Examsequence1\ChoreWar\obj\Debug\ChoreWar.pdb

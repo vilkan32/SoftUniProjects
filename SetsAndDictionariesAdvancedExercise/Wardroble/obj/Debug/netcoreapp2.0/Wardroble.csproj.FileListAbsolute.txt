@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\Wardroble\bin\Debug\netcoreapp2.0\Wardroble.deps.json
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\Wardroble\bin\Debug\netcoreapp2.0\Wardroble.runtimeconfig.json
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\Wardroble\bin\Debug\netcoreapp2.0\Wardroble.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\Wardroble\bin\Debug\netcoreapp2.0\Wardroble.dll
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\Wardroble\bin\Debug\netcoreapp2.0\Wardroble.pdb
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\Wardroble\obj\Debug\netcoreapp2.0\Wardroble.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\Wardroble\obj\Debug\netcoreapp2.0\Wardroble.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\Wardroble\obj\Debug\netcoreapp2.0\Wardroble.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\Wardroble\obj\Debug\netcoreapp2.0\Wardroble.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\Wardroble\obj\Debug\netcoreapp2.0\Wardroble.dll
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\Wardroble\obj\Debug\netcoreapp2.0\Wardroble.pdb

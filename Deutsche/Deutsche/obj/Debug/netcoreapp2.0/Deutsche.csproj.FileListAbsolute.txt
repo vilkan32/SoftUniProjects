@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Deutsche\Deutsche\bin\Debug\netcoreapp2.0\Deutsche.deps.json
+C:\Users\Acer\source\repos\Deutsche\Deutsche\bin\Debug\netcoreapp2.0\Deutsche.runtimeconfig.json
+C:\Users\Acer\source\repos\Deutsche\Deutsche\bin\Debug\netcoreapp2.0\Deutsche.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Deutsche\Deutsche\bin\Debug\netcoreapp2.0\Deutsche.dll
+C:\Users\Acer\source\repos\Deutsche\Deutsche\bin\Debug\netcoreapp2.0\Deutsche.pdb
+C:\Users\Acer\source\repos\Deutsche\Deutsche\obj\Debug\netcoreapp2.0\Deutsche.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Deutsche\Deutsche\obj\Debug\netcoreapp2.0\Deutsche.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Deutsche\Deutsche\obj\Debug\netcoreapp2.0\Deutsche.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Deutsche\Deutsche\obj\Debug\netcoreapp2.0\Deutsche.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Deutsche\Deutsche\obj\Debug\netcoreapp2.0\Deutsche.dll
+C:\Users\Acer\source\repos\Deutsche\Deutsche\obj\Debug\netcoreapp2.0\Deutsche.pdb

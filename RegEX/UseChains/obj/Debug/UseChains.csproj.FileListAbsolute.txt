@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegEX\UseChains\bin\Debug\UseChains.exe.config
+C:\Users\Acer\source\repos\RegEX\UseChains\bin\Debug\UseChains.exe
+C:\Users\Acer\source\repos\RegEX\UseChains\bin\Debug\UseChains.pdb
+C:\Users\Acer\source\repos\RegEX\UseChains\obj\Debug\UseChains.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegEX\UseChains\obj\Debug\UseChains.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegEX\UseChains\obj\Debug\UseChains.exe
+C:\Users\Acer\source\repos\RegEX\UseChains\obj\Debug\UseChains.pdb

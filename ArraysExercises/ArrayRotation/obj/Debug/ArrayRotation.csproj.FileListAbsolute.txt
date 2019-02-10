@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ArraysExercises\ArrayRotation\bin\Debug\ArrayRotation.exe.config
+C:\Users\Acer\source\repos\ArraysExercises\ArrayRotation\bin\Debug\ArrayRotation.exe
+C:\Users\Acer\source\repos\ArraysExercises\ArrayRotation\bin\Debug\ArrayRotation.pdb
+C:\Users\Acer\source\repos\ArraysExercises\ArrayRotation\obj\Debug\ArrayRotation.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ArraysExercises\ArrayRotation\obj\Debug\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ArraysExercises\ArrayRotation\obj\Debug\ArrayRotation.exe
+C:\Users\Acer\source\repos\ArraysExercises\ArrayRotation\obj\Debug\ArrayRotation.pdb

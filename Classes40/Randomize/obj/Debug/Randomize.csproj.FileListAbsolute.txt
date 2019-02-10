@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\Classes40\Randomize\bin\Debug\Randomize.exe.config
+C:\Users\Acer\source\repos\Classes40\Randomize\bin\Debug\Randomize.exe
+C:\Users\Acer\source\repos\Classes40\Randomize\bin\Debug\Randomize.pdb
+C:\Users\Acer\source\repos\Classes40\Randomize\obj\Debug\Randomize.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Classes40\Randomize\obj\Debug\Randomize.exe
+C:\Users\Acer\source\repos\Classes40\Randomize\obj\Debug\Randomize.pdb

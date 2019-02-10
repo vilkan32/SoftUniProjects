@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Conditional statements and loops\SMS typin\bin\Debug\SMS typin.exe.config
+C:\Users\Acer\source\repos\Conditional statements and loops\SMS typin\bin\Debug\SMS typin.exe
+C:\Users\Acer\source\repos\Conditional statements and loops\SMS typin\bin\Debug\SMS typin.pdb
+C:\Users\Acer\source\repos\Conditional statements and loops\SMS typin\obj\Debug\SMS typin.csprojResolveAssemblyReference.cache
+C:\Users\Acer\source\repos\Conditional statements and loops\SMS typin\obj\Debug\SMS typin.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Conditional statements and loops\SMS typin\obj\Debug\SMS typin.exe
+C:\Users\Acer\source\repos\Conditional statements and loops\SMS typin\obj\Debug\SMS typin.pdb

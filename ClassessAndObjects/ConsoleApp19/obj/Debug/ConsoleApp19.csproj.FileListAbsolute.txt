@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\ClassessAndObjects\ConsoleApp19\obj\Debug\ConsoleApp19.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ClassessAndObjects\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ClassessAndObjects\ConsoleApp19\bin\Debug\ConsoleApp19.exe.config
+C:\Users\Acer\source\repos\ClassessAndObjects\ConsoleApp19\bin\Debug\ConsoleApp19.exe
+C:\Users\Acer\source\repos\ClassessAndObjects\ConsoleApp19\bin\Debug\ConsoleApp19.pdb
+C:\Users\Acer\source\repos\ClassessAndObjects\ConsoleApp19\obj\Debug\ConsoleApp19.exe
+C:\Users\Acer\source\repos\ClassessAndObjects\ConsoleApp19\obj\Debug\ConsoleApp19.pdb
+C:\Users\Acer\source\repos\ClassessAndObjects\ConsoleApp19\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Acer\source\repos\ClassessAndObjects\ConsoleApp19\obj\Debug\Interop.MSHelpServices.dll
+C:\Users\Acer\source\repos\ClassessAndObjects\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.ResolveComReference.cache

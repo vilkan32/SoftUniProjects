@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\DIctionary40\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+C:\Users\Acer\source\repos\DIctionary40\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+C:\Users\Acer\source\repos\DIctionary40\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+C:\Users\Acer\source\repos\DIctionary40\CountRealNumbers\obj\Debug\CountRealNumbers.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\DIctionary40\CountRealNumbers\obj\Debug\CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+C:\Users\Acer\source\repos\DIctionary40\CountRealNumbers\obj\Debug\CountRealNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\AverageStudentsGrade\bin\Debug\AverageStudentsGrade.exe.config
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\AverageStudentsGrade\bin\Debug\AverageStudentsGrade.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\AverageStudentsGrade\bin\Debug\AverageStudentsGrade.pdb
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\AverageStudentsGrade\obj\Debug\AverageStudentsGrade.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\AverageStudentsGrade\obj\Debug\AverageStudentsGrade.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\AverageStudentsGrade\obj\Debug\AverageStudentsGrade.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\AverageStudentsGrade\obj\Debug\AverageStudentsGrade.pdb

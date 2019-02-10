@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StreamsFilesDirectories\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\Acer\source\repos\StreamsFilesDirectories\WordCount\bin\Debug\WordCount.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\WordCount\bin\Debug\WordCount.pdb
+C:\Users\Acer\source\repos\StreamsFilesDirectories\WordCount\obj\Debug\WordCount.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StreamsFilesDirectories\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StreamsFilesDirectories\WordCount\obj\Debug\WordCount.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\WordCount\obj\Debug\WordCount.pdb

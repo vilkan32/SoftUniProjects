@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicatePary\obj\Debug\netcoreapp2.0\PredicatePary.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicatePary\obj\Debug\netcoreapp2.0\PredicatePary.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicatePary\obj\Debug\netcoreapp2.0\PredicatePary.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicatePary\obj\Debug\netcoreapp2.0\PredicatePary.AssemblyInfo.cs
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicatePary\bin\Debug\netcoreapp2.0\PredicatePary.deps.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicatePary\bin\Debug\netcoreapp2.0\PredicatePary.runtimeconfig.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicatePary\bin\Debug\netcoreapp2.0\PredicatePary.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicatePary\bin\Debug\netcoreapp2.0\PredicatePary.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicatePary\bin\Debug\netcoreapp2.0\PredicatePary.pdb
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicatePary\obj\Debug\netcoreapp2.0\PredicatePary.dll
+C:\Users\Acer\source\repos\FuncProgrammingExercise\PredicatePary\obj\Debug\netcoreapp2.0\PredicatePary.pdb

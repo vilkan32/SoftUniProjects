@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\DIctionary40\ForceBook\bin\Debug\ForceBook.exe.config
+C:\Users\Acer\source\repos\DIctionary40\ForceBook\bin\Debug\ForceBook.exe
+C:\Users\Acer\source\repos\DIctionary40\ForceBook\bin\Debug\ForceBook.pdb
+C:\Users\Acer\source\repos\DIctionary40\ForceBook\obj\Debug\ForceBook.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\DIctionary40\ForceBook\obj\Debug\ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\ForceBook\obj\Debug\ForceBook.exe
+C:\Users\Acer\source\repos\DIctionary40\ForceBook\obj\Debug\ForceBook.pdb

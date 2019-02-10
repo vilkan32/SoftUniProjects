@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\DIctionary40\Orders\bin\Debug\Orders.exe.config
+C:\Users\Acer\source\repos\DIctionary40\Orders\bin\Debug\Orders.exe
+C:\Users\Acer\source\repos\DIctionary40\Orders\bin\Debug\Orders.pdb
+C:\Users\Acer\source\repos\DIctionary40\Orders\obj\Debug\Orders.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\DIctionary40\Orders\obj\Debug\Orders.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\Orders\obj\Debug\Orders.exe
+C:\Users\Acer\source\repos\DIctionary40\Orders\obj\Debug\Orders.pdb

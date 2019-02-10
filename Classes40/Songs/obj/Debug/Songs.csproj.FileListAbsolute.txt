@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Classes40\Songs\bin\Debug\Songs.exe.config
+C:\Users\Acer\source\repos\Classes40\Songs\bin\Debug\Songs.exe
+C:\Users\Acer\source\repos\Classes40\Songs\bin\Debug\Songs.pdb
+C:\Users\Acer\source\repos\Classes40\Songs\obj\Debug\Songs.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Classes40\Songs\obj\Debug\Songs.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Classes40\Songs\obj\Debug\Songs.exe
+C:\Users\Acer\source\repos\Classes40\Songs\obj\Debug\Songs.pdb

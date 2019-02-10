@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegEX\CameraView\obj\Debug\CameraView.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegEX\CameraView\obj\Debug\CameraView.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegEX\CameraView\bin\Debug\CameraView.exe.config
+C:\Users\Acer\source\repos\RegEX\CameraView\bin\Debug\CameraView.exe
+C:\Users\Acer\source\repos\RegEX\CameraView\bin\Debug\CameraView.pdb
+C:\Users\Acer\source\repos\RegEX\CameraView\obj\Debug\CameraView.exe
+C:\Users\Acer\source\repos\RegEX\CameraView\obj\Debug\CameraView.pdb

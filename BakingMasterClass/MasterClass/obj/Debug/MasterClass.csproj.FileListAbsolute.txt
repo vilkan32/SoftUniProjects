@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\BakingMasterClass\MasterClass\bin\Debug\MasterClass.exe.config
+C:\Users\Acer\source\repos\BakingMasterClass\MasterClass\bin\Debug\MasterClass.exe
+C:\Users\Acer\source\repos\BakingMasterClass\MasterClass\bin\Debug\MasterClass.pdb
+C:\Users\Acer\source\repos\BakingMasterClass\MasterClass\obj\Debug\MasterClass.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\BakingMasterClass\MasterClass\obj\Debug\MasterClass.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\BakingMasterClass\MasterClass\obj\Debug\MasterClass.exe
+C:\Users\Acer\source\repos\BakingMasterClass\MasterClass\obj\Debug\MasterClass.pdb

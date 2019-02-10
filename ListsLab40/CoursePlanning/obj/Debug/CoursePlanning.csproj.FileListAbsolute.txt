@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ListsLab40\CoursePlanning\bin\Debug\CoursePlanning.exe.config
+C:\Users\Acer\source\repos\ListsLab40\CoursePlanning\bin\Debug\CoursePlanning.exe
+C:\Users\Acer\source\repos\ListsLab40\CoursePlanning\bin\Debug\CoursePlanning.pdb
+C:\Users\Acer\source\repos\ListsLab40\CoursePlanning\obj\Debug\CoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ListsLab40\CoursePlanning\obj\Debug\CoursePlanning.exe
+C:\Users\Acer\source\repos\ListsLab40\CoursePlanning\obj\Debug\CoursePlanning.pdb
+C:\Users\Acer\source\repos\ListsLab40\CoursePlanning\obj\Debug\CoursePlanning.csprojAssemblyReference.cache

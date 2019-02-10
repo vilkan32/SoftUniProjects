@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegEX\MatchNumbers\bin\Debug\MatchNumbers.exe.config
+C:\Users\Acer\source\repos\RegEX\MatchNumbers\bin\Debug\MatchNumbers.exe
+C:\Users\Acer\source\repos\RegEX\MatchNumbers\bin\Debug\MatchNumbers.pdb
+C:\Users\Acer\source\repos\RegEX\MatchNumbers\obj\Debug\MatchNumbers.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegEX\MatchNumbers\obj\Debug\MatchNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegEX\MatchNumbers\obj\Debug\MatchNumbers.exe
+C:\Users\Acer\source\repos\RegEX\MatchNumbers\obj\Debug\MatchNumbers.pdb

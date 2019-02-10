@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ArraysExercises\CommonElements\bin\Debug\CommonElements.exe.config
+C:\Users\Acer\source\repos\ArraysExercises\CommonElements\bin\Debug\CommonElements.exe
+C:\Users\Acer\source\repos\ArraysExercises\CommonElements\bin\Debug\CommonElements.pdb
+C:\Users\Acer\source\repos\ArraysExercises\CommonElements\obj\Debug\CommonElements.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ArraysExercises\CommonElements\obj\Debug\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ArraysExercises\CommonElements\obj\Debug\CommonElements.exe
+C:\Users\Acer\source\repos\ArraysExercises\CommonElements\obj\Debug\CommonElements.pdb

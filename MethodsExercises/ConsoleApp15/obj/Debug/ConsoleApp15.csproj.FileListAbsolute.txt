@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MethodsExercises\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\Acer\source\repos\MethodsExercises\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\Acer\source\repos\MethodsExercises\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\Acer\source\repos\MethodsExercises\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MethodsExercises\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\Acer\source\repos\MethodsExercises\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\Acer\source\repos\MethodsExercises\ConsoleApp15\obj\Debug\ConsoleApp15.csprojResolveAssemblyReference.cache

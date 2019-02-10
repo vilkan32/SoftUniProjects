@@ -1,0 +1,6 @@
+c:\users\acer\source\repos\StringTextProcessing40\RepString\bin\Debug\RepString.exe.config
+c:\users\acer\source\repos\StringTextProcessing40\RepString\bin\Debug\RepString.exe
+c:\users\acer\source\repos\StringTextProcessing40\RepString\bin\Debug\RepString.pdb
+c:\users\acer\source\repos\StringTextProcessing40\RepString\obj\Debug\RepString.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\StringTextProcessing40\RepString\obj\Debug\RepString.exe
+c:\users\acer\source\repos\StringTextProcessing40\RepString\obj\Debug\RepString.pdb

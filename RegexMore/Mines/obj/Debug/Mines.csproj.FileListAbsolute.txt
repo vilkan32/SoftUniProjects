@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegexMore\Mines\obj\Debug\Mines.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegexMore\Mines\obj\Debug\Mines.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegexMore\Mines\bin\Debug\Mines.exe.config
+C:\Users\Acer\source\repos\RegexMore\Mines\bin\Debug\Mines.exe
+C:\Users\Acer\source\repos\RegexMore\Mines\bin\Debug\Mines.pdb
+C:\Users\Acer\source\repos\RegexMore\Mines\obj\Debug\Mines.exe
+C:\Users\Acer\source\repos\RegexMore\Mines\obj\Debug\Mines.pdb

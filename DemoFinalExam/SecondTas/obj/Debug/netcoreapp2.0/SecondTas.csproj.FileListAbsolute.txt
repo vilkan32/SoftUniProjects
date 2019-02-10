@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\DemoFinalExam\SecondTas\bin\Debug\netcoreapp2.0\SecondTas.deps.json
+C:\Users\Acer\source\repos\DemoFinalExam\SecondTas\bin\Debug\netcoreapp2.0\SecondTas.runtimeconfig.json
+C:\Users\Acer\source\repos\DemoFinalExam\SecondTas\bin\Debug\netcoreapp2.0\SecondTas.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\DemoFinalExam\SecondTas\bin\Debug\netcoreapp2.0\SecondTas.dll
+C:\Users\Acer\source\repos\DemoFinalExam\SecondTas\bin\Debug\netcoreapp2.0\SecondTas.pdb
+C:\Users\Acer\source\repos\DemoFinalExam\SecondTas\obj\Debug\netcoreapp2.0\SecondTas.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DemoFinalExam\SecondTas\obj\Debug\netcoreapp2.0\SecondTas.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\DemoFinalExam\SecondTas\obj\Debug\netcoreapp2.0\SecondTas.AssemblyInfo.cs
+C:\Users\Acer\source\repos\DemoFinalExam\SecondTas\obj\Debug\netcoreapp2.0\SecondTas.dll
+C:\Users\Acer\source\repos\DemoFinalExam\SecondTas\obj\Debug\netcoreapp2.0\SecondTas.pdb

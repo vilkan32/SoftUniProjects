@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\VLogger\bin\Debug\VLogger.exe.config
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\VLogger\bin\Debug\VLogger.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\VLogger\bin\Debug\VLogger.pdb
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\VLogger\obj\Debug\VLogger.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\VLogger\obj\Debug\VLogger.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\VLogger\obj\Debug\VLogger.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvancedExercise\VLogger\obj\Debug\VLogger.pdb

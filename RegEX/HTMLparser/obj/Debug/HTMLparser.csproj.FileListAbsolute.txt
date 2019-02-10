@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegEX\HTMLparser\bin\Debug\HTMLparser.exe.config
+C:\Users\Acer\source\repos\RegEX\HTMLparser\bin\Debug\HTMLparser.exe
+C:\Users\Acer\source\repos\RegEX\HTMLparser\bin\Debug\HTMLparser.pdb
+C:\Users\Acer\source\repos\RegEX\HTMLparser\obj\Debug\HTMLparser.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegEX\HTMLparser\obj\Debug\HTMLparser.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegEX\HTMLparser\obj\Debug\HTMLparser.exe
+C:\Users\Acer\source\repos\RegEX\HTMLparser\obj\Debug\HTMLparser.pdb

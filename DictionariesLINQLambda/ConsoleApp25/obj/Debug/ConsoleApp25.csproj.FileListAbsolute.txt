@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\DictionariesLINQLambda\ConsoleApp25\bin\Debug\ConsoleApp25.exe.config
+C:\Users\Acer\source\repos\DictionariesLINQLambda\ConsoleApp25\bin\Debug\ConsoleApp25.exe
+C:\Users\Acer\source\repos\DictionariesLINQLambda\ConsoleApp25\bin\Debug\ConsoleApp25.pdb
+C:\Users\Acer\source\repos\DictionariesLINQLambda\ConsoleApp25\obj\Debug\ConsoleApp25.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\DictionariesLINQLambda\ConsoleApp25\obj\Debug\ConsoleApp25.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DictionariesLINQLambda\ConsoleApp25\obj\Debug\ConsoleApp25.exe
+C:\Users\Acer\source\repos\DictionariesLINQLambda\ConsoleApp25\obj\Debug\ConsoleApp25.pdb

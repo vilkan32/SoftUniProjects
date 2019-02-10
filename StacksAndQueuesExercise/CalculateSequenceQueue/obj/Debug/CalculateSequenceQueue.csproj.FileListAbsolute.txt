@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CalculateSequenceQueue\bin\Debug\CalculateSequenceQueue.exe.config
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CalculateSequenceQueue\bin\Debug\CalculateSequenceQueue.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CalculateSequenceQueue\bin\Debug\CalculateSequenceQueue.pdb
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CalculateSequenceQueue\obj\Debug\CalculateSequenceQueue.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CalculateSequenceQueue\obj\Debug\CalculateSequenceQueue.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CalculateSequenceQueue\obj\Debug\CalculateSequenceQueue.exe
+C:\Users\Acer\source\repos\StacksAndQueuesExercise\CalculateSequenceQueue\obj\Debug\CalculateSequenceQueue.pdb

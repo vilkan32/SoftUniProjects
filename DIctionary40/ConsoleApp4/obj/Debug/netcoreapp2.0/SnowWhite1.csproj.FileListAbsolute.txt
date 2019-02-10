@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\DIctionary40\ConsoleApp4\bin\Debug\netcoreapp2.0\SnowWhite1.deps.json
+C:\Users\Acer\source\repos\DIctionary40\ConsoleApp4\bin\Debug\netcoreapp2.0\SnowWhite1.runtimeconfig.json
+C:\Users\Acer\source\repos\DIctionary40\ConsoleApp4\bin\Debug\netcoreapp2.0\SnowWhite1.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\DIctionary40\ConsoleApp4\bin\Debug\netcoreapp2.0\SnowWhite1.dll
+C:\Users\Acer\source\repos\DIctionary40\ConsoleApp4\bin\Debug\netcoreapp2.0\SnowWhite1.pdb
+C:\Users\Acer\source\repos\DIctionary40\ConsoleApp4\obj\Debug\netcoreapp2.0\SnowWhite1.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\DIctionary40\ConsoleApp4\obj\Debug\netcoreapp2.0\SnowWhite1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\ConsoleApp4\obj\Debug\netcoreapp2.0\SnowWhite1.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\ConsoleApp4\obj\Debug\netcoreapp2.0\SnowWhite1.AssemblyInfo.cs
+C:\Users\Acer\source\repos\DIctionary40\ConsoleApp4\obj\Debug\netcoreapp2.0\SnowWhite1.dll
+C:\Users\Acer\source\repos\DIctionary40\ConsoleApp4\obj\Debug\netcoreapp2.0\SnowWhite1.pdb

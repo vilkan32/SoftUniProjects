@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StreamsFilesDirectories\MergeFiles\bin\Debug\MergeFiles.exe.config
+C:\Users\Acer\source\repos\StreamsFilesDirectories\MergeFiles\bin\Debug\MergeFiles.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\MergeFiles\bin\Debug\MergeFiles.pdb
+C:\Users\Acer\source\repos\StreamsFilesDirectories\MergeFiles\obj\Debug\MergeFiles.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StreamsFilesDirectories\MergeFiles\obj\Debug\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StreamsFilesDirectories\MergeFiles\obj\Debug\MergeFiles.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\MergeFiles\obj\Debug\MergeFiles.pdb

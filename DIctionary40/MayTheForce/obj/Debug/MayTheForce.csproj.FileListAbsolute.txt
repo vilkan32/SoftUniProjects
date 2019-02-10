@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\DIctionary40\MayTheForce\bin\Debug\MayTheForce.exe.config
+C:\Users\Acer\source\repos\DIctionary40\MayTheForce\bin\Debug\MayTheForce.exe
+C:\Users\Acer\source\repos\DIctionary40\MayTheForce\bin\Debug\MayTheForce.pdb
+C:\Users\Acer\source\repos\DIctionary40\MayTheForce\obj\Debug\MayTheForce.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\DIctionary40\MayTheForce\obj\Debug\MayTheForce.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\MayTheForce\obj\Debug\MayTheForce.exe
+C:\Users\Acer\source\repos\DIctionary40\MayTheForce\obj\Debug\MayTheForce.pdb

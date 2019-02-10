@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\ContinentCountryCity\bin\Debug\netcoreapp2.0\ContinentCountryCity.deps.json
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\ContinentCountryCity\bin\Debug\netcoreapp2.0\ContinentCountryCity.runtimeconfig.json
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\ContinentCountryCity\bin\Debug\netcoreapp2.0\ContinentCountryCity.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\ContinentCountryCity\bin\Debug\netcoreapp2.0\ContinentCountryCity.dll
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\ContinentCountryCity\bin\Debug\netcoreapp2.0\ContinentCountryCity.pdb
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\ContinentCountryCity\obj\Debug\netcoreapp2.0\ContinentCountryCity.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\ContinentCountryCity\obj\Debug\netcoreapp2.0\ContinentCountryCity.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\ContinentCountryCity\obj\Debug\netcoreapp2.0\ContinentCountryCity.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\ContinentCountryCity\obj\Debug\netcoreapp2.0\ContinentCountryCity.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\ContinentCountryCity\obj\Debug\netcoreapp2.0\ContinentCountryCity.dll
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\ContinentCountryCity\obj\Debug\netcoreapp2.0\ContinentCountryCity.pdb

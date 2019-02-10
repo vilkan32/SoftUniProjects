@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ListsLab40\MixedUpLists\bin\Debug\MixedUpLists.exe.config
+C:\Users\Acer\source\repos\ListsLab40\MixedUpLists\bin\Debug\MixedUpLists.exe
+C:\Users\Acer\source\repos\ListsLab40\MixedUpLists\bin\Debug\MixedUpLists.pdb
+C:\Users\Acer\source\repos\ListsLab40\MixedUpLists\obj\Debug\MixedUpLists.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ListsLab40\MixedUpLists\obj\Debug\MixedUpLists.exe
+C:\Users\Acer\source\repos\ListsLab40\MixedUpLists\obj\Debug\MixedUpLists.pdb

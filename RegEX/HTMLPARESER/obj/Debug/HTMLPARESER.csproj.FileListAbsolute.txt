@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\RegEX\HTMLPARESER\bin\Debug\HTMLPARESER.exe.config
+C:\Users\Acer\source\repos\RegEX\HTMLPARESER\bin\Debug\HTMLPARESER.exe
+C:\Users\Acer\source\repos\RegEX\HTMLPARESER\bin\Debug\HTMLPARESER.pdb
+C:\Users\Acer\source\repos\RegEX\HTMLPARESER\obj\Debug\HTMLPARESER.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegEX\HTMLPARESER\obj\Debug\HTMLPARESER.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegEX\HTMLPARESER\obj\Debug\HTMLPARESER.exe
+C:\Users\Acer\source\repos\RegEX\HTMLPARESER\obj\Debug\HTMLPARESER.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MatrixExercise\MatrixShuffling\bin\Debug\MatrixShuffling.exe.config
+C:\Users\Acer\source\repos\MatrixExercise\MatrixShuffling\bin\Debug\MatrixShuffling.exe
+C:\Users\Acer\source\repos\MatrixExercise\MatrixShuffling\bin\Debug\MatrixShuffling.pdb
+C:\Users\Acer\source\repos\MatrixExercise\MatrixShuffling\obj\Debug\MatrixShuffling.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MatrixExercise\MatrixShuffling\obj\Debug\MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MatrixExercise\MatrixShuffling\obj\Debug\MatrixShuffling.exe
+C:\Users\Acer\source\repos\MatrixExercise\MatrixShuffling\obj\Debug\MatrixShuffling.pdb

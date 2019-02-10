@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\StreamsFilesDirectories\FolderSize\bin\Debug\FolderSize.exe.config
+C:\Users\Acer\source\repos\StreamsFilesDirectories\FolderSize\bin\Debug\FolderSize.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\FolderSize\bin\Debug\FolderSize.pdb
+C:\Users\Acer\source\repos\StreamsFilesDirectories\FolderSize\obj\Debug\FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StreamsFilesDirectories\FolderSize\obj\Debug\FolderSize.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\FolderSize\obj\Debug\FolderSize.pdb

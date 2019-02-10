@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\DIctionary40\Courses\bin\Debug\Courses.exe.config
+C:\Users\Acer\source\repos\DIctionary40\Courses\bin\Debug\Courses.exe
+C:\Users\Acer\source\repos\DIctionary40\Courses\bin\Debug\Courses.pdb
+C:\Users\Acer\source\repos\DIctionary40\Courses\obj\Debug\Courses.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\DIctionary40\Courses\obj\Debug\Courses.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DIctionary40\Courses\obj\Debug\Courses.exe
+C:\Users\Acer\source\repos\DIctionary40\Courses\obj\Debug\Courses.pdb

@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\ArraysLab\PrintNumbersInReversedOrder\bin\Debug\PrintNumbersInReversedOrder.exe.config
+C:\Users\Acer\source\repos\ArraysLab\PrintNumbersInReversedOrder\bin\Debug\PrintNumbersInReversedOrder.exe
+C:\Users\Acer\source\repos\ArraysLab\PrintNumbersInReversedOrder\bin\Debug\PrintNumbersInReversedOrder.pdb
+C:\Users\Acer\source\repos\ArraysLab\PrintNumbersInReversedOrder\obj\Debug\PrintNumbersInReversedOrder.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ArraysLab\PrintNumbersInReversedOrder\obj\Debug\PrintNumbersInReversedOrder.exe
+C:\Users\Acer\source\repos\ArraysLab\PrintNumbersInReversedOrder\obj\Debug\PrintNumbersInReversedOrder.pdb

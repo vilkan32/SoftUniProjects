@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Defining Classes\Car\bin\Debug\netcoreapp2.0\CarManufacturer.deps.json
+C:\Users\Acer\source\repos\Defining Classes\Car\bin\Debug\netcoreapp2.0\CarManufacturer.runtimeconfig.json
+C:\Users\Acer\source\repos\Defining Classes\Car\bin\Debug\netcoreapp2.0\CarManufacturer.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Defining Classes\Car\bin\Debug\netcoreapp2.0\CarManufacturer.dll
+C:\Users\Acer\source\repos\Defining Classes\Car\bin\Debug\netcoreapp2.0\CarManufacturer.pdb
+C:\Users\Acer\source\repos\Defining Classes\Car\obj\Debug\netcoreapp2.0\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Defining Classes\Car\obj\Debug\netcoreapp2.0\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Defining Classes\Car\obj\Debug\netcoreapp2.0\CarManufacturer.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Defining Classes\Car\obj\Debug\netcoreapp2.0\CarManufacturer.dll
+C:\Users\Acer\source\repos\Defining Classes\Car\obj\Debug\netcoreapp2.0\CarManufacturer.pdb
+C:\Users\Acer\source\repos\Defining Classes\Car\obj\Debug\netcoreapp2.0\CarManufacturer.csprojAssemblyReference.cache

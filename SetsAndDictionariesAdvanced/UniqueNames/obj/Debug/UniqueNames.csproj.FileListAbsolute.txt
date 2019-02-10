@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\UniqueNames\bin\Debug\UniqueNames.exe.config
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\UniqueNames\bin\Debug\UniqueNames.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\UniqueNames\bin\Debug\UniqueNames.pdb
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\UniqueNames\obj\Debug\UniqueNames.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\UniqueNames\obj\Debug\UniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\UniqueNames\obj\Debug\UniqueNames.exe
+C:\Users\Acer\source\repos\SetsAndDictionariesAdvanced\UniqueNames\obj\Debug\UniqueNames.pdb

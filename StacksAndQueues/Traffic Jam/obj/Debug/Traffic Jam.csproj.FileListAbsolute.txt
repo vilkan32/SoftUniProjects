@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StacksAndQueues\Traffic Jam\bin\Debug\Traffic Jam.exe.config
+C:\Users\Acer\source\repos\StacksAndQueues\Traffic Jam\bin\Debug\Traffic Jam.exe
+C:\Users\Acer\source\repos\StacksAndQueues\Traffic Jam\bin\Debug\Traffic Jam.pdb
+C:\Users\Acer\source\repos\StacksAndQueues\Traffic Jam\obj\Debug\Traffic Jam.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StacksAndQueues\Traffic Jam\obj\Debug\Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StacksAndQueues\Traffic Jam\obj\Debug\Traffic Jam.exe
+C:\Users\Acer\source\repos\StacksAndQueues\Traffic Jam\obj\Debug\Traffic Jam.pdb

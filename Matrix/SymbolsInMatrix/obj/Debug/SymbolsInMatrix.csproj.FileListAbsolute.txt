@@ -1,0 +1,7 @@
+c:\Users\Acer\source\repos\Matrix\SymbolsInMatrix\bin\Debug\SymbolsInMatrix.exe.config
+c:\Users\Acer\source\repos\Matrix\SymbolsInMatrix\bin\Debug\SymbolsInMatrix.exe
+c:\Users\Acer\source\repos\Matrix\SymbolsInMatrix\bin\Debug\SymbolsInMatrix.pdb
+c:\Users\Acer\source\repos\Matrix\SymbolsInMatrix\obj\Debug\SymbolsInMatrix.csprojAssemblyReference.cache
+c:\Users\Acer\source\repos\Matrix\SymbolsInMatrix\obj\Debug\SymbolsInMatrix.csproj.CoreCompileInputs.cache
+c:\Users\Acer\source\repos\Matrix\SymbolsInMatrix\obj\Debug\SymbolsInMatrix.exe
+c:\Users\Acer\source\repos\Matrix\SymbolsInMatrix\obj\Debug\SymbolsInMatrix.pdb

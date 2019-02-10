@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractPersonsInformation\bin\Debug\ExtractPersonsInformation.exe.config
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractPersonsInformation\bin\Debug\ExtractPersonsInformation.exe
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractPersonsInformation\bin\Debug\ExtractPersonsInformation.pdb
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractPersonsInformation\obj\Debug\ExtractPersonsInformation.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractPersonsInformation\obj\Debug\ExtractPersonsInformation.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractPersonsInformation\obj\Debug\ExtractPersonsInformation.exe
+C:\Users\Acer\source\repos\StringTextProcessing40\ExtractPersonsInformation\obj\Debug\ExtractPersonsInformation.pdb

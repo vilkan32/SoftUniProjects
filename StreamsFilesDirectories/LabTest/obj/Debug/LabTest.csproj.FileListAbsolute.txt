@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LabTest\bin\Debug\LabTest.exe.config
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LabTest\bin\Debug\LabTest.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LabTest\bin\Debug\LabTest.pdb
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LabTest\obj\Debug\LabTest.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LabTest\obj\Debug\LabTest.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LabTest\obj\Debug\LabTest.exe
+C:\Users\Acer\source\repos\StreamsFilesDirectories\LabTest\obj\Debug\LabTest.pdb
